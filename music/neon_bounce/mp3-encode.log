@@ -1,0 +1,17 @@
+[aist#0:0/pcm_s16le @ 0xcaf034180] Guessed Channel Layout: stereo
+Input #0, wav, from 'music/neon_bounce/neon-bounce.wav':
+  Duration: 00:01:15.00, bitrate: 1536 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'music/neon_bounce/neon-bounce.mp3':
+  Metadata:
+    TIT2            : 霓虹弹跳
+    TPE1            : SpatialLoop Original
+    TSSE            : Lavf62.3.100
+  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p, 320 kb/s
+    Metadata:
+      encoder         : Lavc62.11.100 libmp3lame
+size=    1792KiB time=00:00:46.75 bitrate= 314.0kbits/s speed=92.6x elapsed=0:00:00.50    [out#0/mp3 @ 0xcaf04c180] video:0KiB audio:2931KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.035322%
+size=    2932KiB time=00:01:15.00 bitrate= 320.2kbits/s speed=93.9x elapsed=0:00:00.79    

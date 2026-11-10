@@ -1,0 +1,1704 @@
+{
+  "project": "spatial-dj-v3",
+  "version": "3.14",
+  "sdk": "6.1.9",
+  "android_version": "3.14 / 44",
+  "snapshot_date": "2026-11-10",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 441,
+      "sha256": "aea75c7fd54461b74663416e9cdc794a472e4805c041642f5044493cac4e8a6a",
+      "git_blob": "f7169b675e04e9b2720678ed8e73389899387bcb",
+      "mode": "100644"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 6188,
+      "sha256": "f278581c4828005eac72b04ff6185ef1f882daf5496964657943b16a8e3f7ecc",
+      "git_blob": "e7e33f2da05cf22eb138d9e0dd1dbb84a7a3c9ba",
+      "mode": "100644"
+    },
+    {
+      "path": "README.md",
+      "size": 7187,
+      "sha256": "d824a52bc0b92bee97b6319fc58358dbbd77eac5afde6d66e903a621eeee1928",
+      "git_blob": "36c84dd7a2a8b99251eebc6e4930b4b335b0f84d",
+      "mode": "100644"
+    },
+    {
+      "path": "build.gradle.kts",
+      "size": 219,
+      "sha256": "47774018405adb4336f34aa05a2fdc6ca8c2175e5efc5b705f1ecb101eae7094",
+      "git_blob": "7f09f7c5a9f0705ef064cb16ea8dcba74d139539",
+      "mode": "100644"
+    },
+    {
+      "path": "debug-loop-touch-blocked.md",
+      "size": 4474,
+      "sha256": "a7b1d8fd47705feb926ade28bff59b5569c92eaffbd46d05db33ec618eb9d375",
+      "git_blob": "e9a5a0ce2e2e9f83481c170c52bcbbbb0b1ebe47",
+      "mode": "100644"
+    },
+    {
+      "path": "gradle.properties",
+      "size": 1347,
+      "sha256": "0c64dc4bd012fbcb1b99318d519ac007261fab30c2ad9d3f04d8ed4282e128e9",
+      "git_blob": "132244e5b8f6048a24d948876caa1d3b3df5dc1f",
+      "mode": "100644"
+    },
+    {
+      "path": "gradlew",
+      "size": 5766,
+      "sha256": "63135287117a1e6d12c84580f1f49c61d1ba02218ecd28660605e97f976e7d65",
+      "git_blob": "4f906e0c811fc9e230eb44819f509cd0627f2600",
+      "mode": "100755"
+    },
+    {
+      "path": "gradlew.bat",
+      "size": 2674,
+      "sha256": "c46a27c79007746de5922b17abb6230d64ad8b1ba3ad1585ee5c6543c2a9b129",
+      "git_blob": "107acd32c4e687021ef32db511e8a206129b88ec",
+      "mode": "100644"
+    },
+    {
+      "path": "settings.gradle.kts",
+      "size": 1062,
+      "sha256": "da4c9b6220ad9a46177e532a73bd498d0ffab3fb337815142c4a5a884633aca3",
+      "git_blob": "23c7ba34727ac6b4fb145ce5e1939d9fca7189e6",
+      "mode": "100644"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "size": 2390,
+      "sha256": "a324a339bf083ae79314f39990e09a5a14f9548eb6d15da55b64b8a13aaa1949",
+      "git_blob": "4b7756af0a4dda14ec0159281e61c245a77a626e",
+      "mode": "100644"
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "size": 751,
+      "sha256": "1cf8c57e8f79c250b0af9c1a5a4edad71a5c348a79ab70243b6bae086c150ad2",
+      "git_blob": "f1b424510da51fd82143bc74a0a801ae5a1e2fcd",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/spatialdj/p170bd28c/LiveLoopTest.kt",
+      "size": 77611,
+      "sha256": "50639900a30cb9fe46f0ebd7d8e8560d426a93ed73161a5428f38fed68da0464",
+      "git_blob": "a39fb8c123e75b645d27ac7847bb4c855e48ff1d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/spatialdj/p170bd28c/UiMusicPerformance.kt",
+      "size": 19157,
+      "sha256": "406d1a1a2bc950084dfdf2f79576208d233b2987c616e4071bd89e20eb91a488",
+      "git_blob": "4b29fb4856ccac8f760587c7522b988769846da1",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/debug/AndroidManifest.xml",
+      "size": 244,
+      "sha256": "93d8ca804ec425d49efff689d98d6ba65e0cc33075a4ce18712b8d7938729474",
+      "git_blob": "7be41a54c04e6c9cc262c4a7ca058e94cd1e433f",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "size": 3099,
+      "sha256": "b50b88f3300f9fe65dab4422af3133a951963d0925b7db7801acfcebdff7e289",
+      "git_blob": "b3726faff9e4f45d06c71f86d42411ec4ba5b74a",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/bass.wav",
+      "size": 124844,
+      "sha256": "544249ba829089d4f4ea7d1375c7fee143aed01ddd5c104d8dc55ea926512046",
+      "git_blob": "add855d2453d2d1adb44d8a06f7f71da1741ace1",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/clap.wav",
+      "size": 46124,
+      "sha256": "f0834007d1c00597f6395ac5b7d0012234251dfe8d7ba366bbdd8f51338b8fab",
+      "git_blob": "de22e9b027bbe6d6b9199f6cef96691cb1fb40c5",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/hat.wav",
+      "size": 19244,
+      "sha256": "38087058dbe8a3a167c7ebec339cb58b700ec27bc8a5732aa8ddbaf4e8627e02",
+      "git_blob": "c07f2679a0d61a2dffc2a9d9564d8c24a24375a2",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/kick.wav",
+      "size": 80684,
+      "sha256": "a238d320a836b9b8d9c6a47c59369ccc6dc1d242316d4eacc0b59f4b0506e0c3",
+      "git_blob": "aa92eabab8b9d480108f3b1b2378966023e619e2",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/open-hat.wav",
+      "size": 48044,
+      "sha256": "d7f0dc1c828256f4bfbe3af0494b5fedb2d30296ab98377b1a868d845895930d",
+      "git_blob": "66252ef32cf552de53bcef9e57c5440fd33befcd",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/snare.wav",
+      "size": 57644,
+      "sha256": "5ce32052a4b100f684ebb50264850953ebeb9587c8073c5a48d0ad742ab7bc83",
+      "git_blob": "7c849f2b6abec5c1498213ced3bf37022119c556",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/stab.wav",
+      "size": 105644,
+      "sha256": "d67c1026b6cf32858ace1164850e8b41b13575ddee40d44a74a808edf6de54fc",
+      "git_blob": "863e7ef6345e197dfceaa4dc259cfcbac9b03919",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/tom.wav",
+      "size": 57644,
+      "sha256": "bf8751fb0451765463f9723dceac38f6dfa65cb888352291367c1d588c2996c2",
+      "git_blob": "176c1ecffdd051b1ed7fde8da227ad716edc3c0e",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/0-0.wav",
+      "size": 76844,
+      "sha256": "7d583cd0b43a0b1f4d8d54e52d126c60cde0681b5c4ab01052b6df126ffad138",
+      "git_blob": "ca2ae2d139ebb54cd8f512c96d0ac231fa6c23bd",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/0-1.wav",
+      "size": 19244,
+      "sha256": "8217eee1f360ebbc6bc388e6746b7a294020e8dd2fcee43b2f61107c5f43f4a4",
+      "git_blob": "fe20cd2c9366402212f02d7f76bf0066689b97e6",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/0-2.wav",
+      "size": 65324,
+      "sha256": "b02d9ea7476022c967bc3da3a8e02db0598c36e6be992037f51e3a360f105b86",
+      "git_blob": "7662537b15cc6e5cdcd584fbfd6066d960e5d746",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/0-3.wav",
+      "size": 73004,
+      "sha256": "74d64edd6225b1389b64843af3cf58d9646731826e871830950b8eab9fd008e0",
+      "git_blob": "e1d43321b8df3a06459e1abdc1b81d20dc298c57",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/0-4.wav",
+      "size": 240044,
+      "sha256": "bc6e6ff6eb525c6ee1b2bce0e970af5acc0005e71adcfbc9a2b32a29c006bd91",
+      "git_blob": "157716c95eadbf415b6bb72a759731c20ee62305",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/0-5.wav",
+      "size": 720044,
+      "sha256": "cdeec8bc38f0092e853073843ea49a0432556b78a1c052e810192f184c5b6f63",
+      "git_blob": "6f8f998109c54e93c7bfc5b9b5332717f14eda1d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/1-0.wav",
+      "size": 61484,
+      "sha256": "a003c977ca5cd82a53d0651d074cbe00e0f19fafe5f1c2b93169487cd12d193a",
+      "git_blob": "d47217bed23deea8857914ab4fbd8c2112fbdb85",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/1-1.wav",
+      "size": 61484,
+      "sha256": "342ead9836bebd8d6086b5d13bd4b9cac15a728f1c3a2ac02447f66548475b10",
+      "git_blob": "f0a0d2e58a00109f40d395a8915d9a7228d4e608",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/1-2.wav",
+      "size": 61484,
+      "sha256": "6ec18e346db9e615339e37acc717e6eff5235eee79d9f326d991ff8b0eb5117e",
+      "git_blob": "195ff1592f567b7393f3f16a4d6564e421b1975c",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/1-3.wav",
+      "size": 61484,
+      "sha256": "c5f65235d8760b46070e2aade3ea8b988e2625d31f06e924861f1efffe101399",
+      "git_blob": "22964ceed234214aecc454461b263898bcfef8f0",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/2-0.wav",
+      "size": 57644,
+      "sha256": "5bdf39ddd6941343da95ce2bba222360a39984493a7672105384284b2b5232c0",
+      "git_blob": "8da03bd6933719fbe0bd283d12534bbc1b02b048",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/2-1.wav",
+      "size": 57644,
+      "sha256": "18e8c71ddae90100f83524a830ffd57ef96263f36582b78da39b850ef8964ec8",
+      "git_blob": "25b524753acb5ff7bac568c1aed92582432473b7",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/2-2.wav",
+      "size": 57644,
+      "sha256": "4ed9fa118bc651de3ed508f5dcc1093b8e5c15790f96fce193b2c0933fcc18a1",
+      "git_blob": "b4672f87622618bea32d04eb0b001e215b69a868",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/2-3.wav",
+      "size": 57644,
+      "sha256": "4d9fb539f961ca8b4ab446bec8473f1bad805b84d902a98dc5c484d29e24d8bb",
+      "git_blob": "ac0e16b54109b5fe7fa91598e0e5018a91f36954",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/2-4.wav",
+      "size": 57644,
+      "sha256": "ed0ba932f2981f3d4b76c1e15f47d489304a7c49bc364464527cf4409ffc3573",
+      "git_blob": "649c5278bf510822454282ce454c00ade58725b7",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/2-5.wav",
+      "size": 57644,
+      "sha256": "f7658c9b3c0cbaae40c6549c3998311c9a062fbcffa40b9f69cde215a937177b",
+      "git_blob": "adebaa1f11b641ddac20dc055b7fea24d7f2e31c",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-0.wav",
+      "size": 111404,
+      "sha256": "b7a80fedaf30c85473c117924a85ac531c4cad214f81e895cc6180df44176d93",
+      "git_blob": "70925e4e6ba413507b5b837521078513ee348f2d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-1.wav",
+      "size": 111404,
+      "sha256": "4ac5c4376a0169057850d45ce55116a8b7941dd9d07949abfe0c7515905b11a8",
+      "git_blob": "957f7b1a880942c1a947e9ef132251038237fc3c",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-2.wav",
+      "size": 111404,
+      "sha256": "db76e8abee08cfb470d922ca45d4f4226eb6675555922c6c0fb15f62ff5d2195",
+      "git_blob": "2624be58aafcf289272f913ab2c0703f2ac6ac4d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-3.wav",
+      "size": 111404,
+      "sha256": "abade1235ddbbf6797c2c5cc77b0484dc7149934fe1545c33ebf4f622b4a77a8",
+      "git_blob": "a116cc12ddf79c57c33488d323acdfad7e200d0c",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-4.wav",
+      "size": 111404,
+      "sha256": "32f8466b92245123c9f1a5cedb13c0a25bae71cc4f4fb0c7809dd6982989e447",
+      "git_blob": "3f32fd8fd7bd7b7dc7c9d560c9d042de4578e629",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-5.wav",
+      "size": 111404,
+      "sha256": "1d54fa62bc78b7167866bd8a97555c3c6b34014e8ff23ff910854b8859743810",
+      "git_blob": "430d6a44aa6dccdc7cf9e4d80da4cf96207afb59",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-6.wav",
+      "size": 111404,
+      "sha256": "2b4337e2194576ede26f5cc228a9cefe69171c5bedc6adb06b9eb6bd7c5f87fe",
+      "git_blob": "33e0a4365c6bc69259a8977f966b417c9744be27",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/3-7.wav",
+      "size": 111404,
+      "sha256": "c6442b29fd9333fa8959b2de92d2c8397395c2c52dfe80b53caf7fbefb976a09",
+      "git_blob": "1a3de5c77f65b99c638edb24c59efc6ab28cef06",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/4-0.wav",
+      "size": 163244,
+      "sha256": "b1b4668a35bf4077c9e2e328e7d0fb7ec946da9c3620c861501c9c03c6344b5d",
+      "git_blob": "27c69fbdd6bcd74a191ca24817aec6e3e41b5c0d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/4-1.wav",
+      "size": 163244,
+      "sha256": "ccd43398d7e3bf85ac4689fae359947f8c8110e773eaef20dcc8e289d4cdd199",
+      "git_blob": "94391dca534814e0d595f35120b010116cc0de9f",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/4-2.wav",
+      "size": 163244,
+      "sha256": "30fc85739d92d18137842d9f276b6713b71769c33fb28a7a4e86b88cb5e0086f",
+      "git_blob": "4982ba940bcb0b144fea1b5c10af0a0e67dfe9b5",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/audio/neon/4-3.wav",
+      "size": 163244,
+      "sha256": "f6f747ad0ec6c56b261ec50024bf87b3ee587e5ba489e50d9bde35b229d1a6aa",
+      "git_blob": "c4b7d777d75bd2f355c6837ba6c081f2c105862a",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/club/night-ambient.ktx",
+      "size": 2095476,
+      "sha256": "d09a52e522da38bce971820961287fe8c91a0b0f02ffedc42b6bb24aa426863a",
+      "git_blob": "868aeaa386cb63f5526cb4dc7b8be9fef4d74fd1",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/licenses/LoopSansSC-OFL.txt",
+      "size": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "git_blob": "1c9f43281b8f216c5461fe9ac729afbade7724e4",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/music/neon-bounce.json",
+      "size": 97873,
+      "sha256": "f9fe483a5091a5b40db1f6c90677471d359e4d435b70539a9614a4aa6aba9538",
+      "git_blob": "efca1f7e8948f954cc95950d6237356cabdccfb9",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/assets/music/susanna-house.json",
+      "size": 3691,
+      "sha256": "cf1af647c59031bcf1f108e572cb82461c23f955d2c2cf8a1684ba940c47afab",
+      "git_blob": "23e8a5503109388bd74a827cbdb792f670f029d7",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/Main.kt",
+      "size": 418,
+      "sha256": "1292f034fa70f4e79069b54068fdf311b59cdf3b4e06cca236b723e84e849629",
+      "git_blob": "f4baa6afd1ae857fb3ff16263e494a0c5257cad6",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/content/HomeStage.kt",
+      "size": 4772,
+      "sha256": "52bba91cc50fbf4594452e75e73e02d6517f003a6d91617dd82720f34fc42cb7",
+      "git_blob": "d17687c096c9da6d412beb72e690f05f0d2f5b44",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/data/audio/AndroidAudioOutputs.kt",
+      "size": 5871,
+      "sha256": "caab5ea87d602f7010923bd4094a1b1caa7ce8feab1000043af04ab67ab78641",
+      "git_blob": "b3e8c93a0e4de83b2900fd8de4662744c3285525",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/data/audio/AutoScoreFiles.kt",
+      "size": 1696,
+      "sha256": "f830ba9b25f88c649fa5fd52f1bff250f5e04e4e379c37122f32ca4704ab14a3",
+      "git_blob": "9e860f0aaff983329998b6983d743a9cea31d8d0",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/data/audio/SessionFiles.kt",
+      "size": 4618,
+      "sha256": "ff9ce45d27a452e8aab8df9043744eafd5ca3f6a15830b6553151eae04716b37",
+      "git_blob": "cc01ecc633cdd51b2186a855edb8ce36a76ca120",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/domain/audio/BounceMix.kt",
+      "size": 2325,
+      "sha256": "5992c1bc3f1da19b767935c755c4c0b37e1ca43a3ba4007b76713327f73e88ec",
+      "git_blob": "0a14e837b87e3ab587cf82063d26ae70292f3a66",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/domain/audio/LoopEngine.kt",
+      "size": 17697,
+      "sha256": "c0904294e02cfb2a84c2243127fbbfe0d519f8f1da86c173250f0b567a9d88ea",
+      "git_blob": "b4e36f656aa9dbb68642916cc85c1669d827b2af",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/domain/audio/SoundBank.kt",
+      "size": 4861,
+      "sha256": "8cad591bd6c85b4d65ed9293778bdd8b7c15723e532c22a31d56a5c6dddd8968",
+      "git_blob": "cff22852b39ba1312e4f9fe8bbc5cc8336fd6d32",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/domain/model/AutoScore.kt",
+      "size": 2436,
+      "sha256": "b620a887c14b0fc25aac6769f5887b25e6f5e5f0a11302c4d7bc8bff682f71c9",
+      "git_blob": "00e5768b8156a41f282dd3fb9bd1486c265996e3",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/domain/model/LoopModel.kt",
+      "size": 5898,
+      "sha256": "9f7aec432145c64d53a592173d468aebab7e2a9e0f1e0137793eaec710d88542",
+      "git_blob": "272620ff95d8b7781d6f888303d156cda0aba066",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/platform/LaunchActivity.kt",
+      "size": 161,
+      "sha256": "080d5d5b8b4003f31c9fc84258eaaee5e6d64fd55717576096ed525951ff9529",
+      "git_blob": "d0b21f518a9d73a600059f8a1877b27e1397f9f3",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/platform/SpatialApplication.kt",
+      "size": 310,
+      "sha256": "f784702b70ec48e4c8a479a5da54d669b6f6299a2f85dd36355029227baf5067",
+      "git_blob": "ed9fde9509a817f9c72d7eb4e9ab1cfeab896b9b",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ClubCast.kt",
+      "size": 478,
+      "sha256": "026c058bf7d0cd1d103322ed72c690d9b01c46699a88bd1c87639139a8063d09",
+      "git_blob": "63567afd3924014d0f972ad81dfd336241b9ea75",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ClubLighting.kt",
+      "size": 878,
+      "sha256": "84394c9fc9d941396bd9a960b18cbc3f96aa3547ae8d7734971c9d446a88802a",
+      "git_blob": "efe8ea8e9daf1bb1657c59d013dfd28c460a6914",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ClubMesh.kt",
+      "size": 4202,
+      "sha256": "3827addea8df579ca518177b7c6b1463a8107fab751dc241b775139175308487",
+      "git_blob": "94a5c0f174332f98890a1df183560c878365c2e9",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ClubMotion.kt",
+      "size": 6102,
+      "sha256": "d69d6ca460a2bd0b65dc57976b196b5c35553a687cdb902b20df8a828a897557",
+      "git_blob": "b18bc32a11c6dae761789a930f0b29cd34a414ae",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ClubPalette.kt",
+      "size": 899,
+      "sha256": "9a4c461691f684bafcbd423092f39523e753580874f95df7aa9062dca4ed38e8",
+      "git_blob": "585343abb79ae9cfc275b66f499b477fc292352b",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ClubRoom.kt",
+      "size": 22294,
+      "sha256": "bc586ce000a8806528b04daa66d52666b8d72aaf7d3b0bd10f8b561354becb0b",
+      "git_blob": "82176f2a44c2d6424c28961c5a75ec1163dacd46",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/ControlOwners.kt",
+      "size": 475,
+      "sha256": "18462d5a04cbd90695452dbf9773db6e99fc13654ea26fe3eec60aecf956cbde",
+      "git_blob": "2823b260b45f98333562bb303353ba3e344544e6",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/FingertipGate.kt",
+      "size": 6975,
+      "sha256": "410a7318ba5a50354379ee343aacd585a36d1ae55e9d4938b07b43aeea941a59",
+      "git_blob": "9086950be541cf80123c111619ac07a4c1dedee5",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/LoopPanel.kt",
+      "size": 21246,
+      "sha256": "b71ebf72b97c4d83dca3c03e34b5164045a37ae1345a77a237caac485be668ce",
+      "git_blob": "f1d9d60a978b216cdd4ba174e68220a8d8ceba5e",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/LoopScene.kt",
+      "size": 14207,
+      "sha256": "03f04610ec9500943b7c0a457fd370059569123caf7582dbce1a748fdae14047",
+      "git_blob": "afcacd98eab85fda6950d85d6f2cfa0d58ec1b72",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/LoopTypography.kt",
+      "size": 2508,
+      "sha256": "0b55734218d20fc07d4cf5d45b29020ca326c3b7e499809fcbb9469748c14f97",
+      "git_blob": "231589c211156761bf046ae0310659adf195e054",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/LoopViewModel.kt",
+      "size": 14430,
+      "sha256": "ccb08b660bc310943bde1a846922dcb8ffed7ec6b2f0427dc0ab16d5626a490e",
+      "git_blob": "2a004de1c50714f6ecbe202c4cee85038de860b8",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/MarkerPredictor.kt",
+      "size": 2010,
+      "sha256": "9bceeab8800a1431073fa12cf517d22e59fdd42a1f5261dd8d906651bedbe377",
+      "git_blob": "5158dff3f206fd19cbf1330a0cbce37319629745",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/java/com/example/spatialdj/p170bd28c/ui/loop/PanelInput.kt",
+      "size": 6273,
+      "sha256": "0be4e401b75502c0d71dc5a57a2dc53331aaa295d1b556883c2fd3f3b8895778",
+      "git_blob": "96fe4ba12a564cc19ed43424a4cf0be01cdc0051",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.png",
+      "size": 456036,
+      "sha256": "3044d2ef10d9c2551a3956e71db9c56973ffb37a0ce83d001c6f3fa4af4f6cce",
+      "git_blob": "d402f4421fce25724556f545b565aea22f6b6b9d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/drawable/icon_3d_layer_0.png",
+      "size": 222387,
+      "sha256": "ff273c4671fa12e2652bb8ed974c3462f51dc87e295baa346d0234ea8c4f2496",
+      "git_blob": "ae80aab69f8cc97849e588a15f9a363d4ae6abb1",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/drawable/icon_3d_layer_1.png",
+      "size": 55732,
+      "sha256": "9f331b1d67bc8432045a994f557ee4e8ba962707542f4e1d7a5531f56a76bb9d",
+      "git_blob": "9eafebd721e68318245d9f2c1be4c522807a0f18",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/drawable/icon_3d_sdf_0.png",
+      "size": 106880,
+      "sha256": "8112ca61542a21296dd65e46a089599415f7d0b3441290c72bcab405cff361f2",
+      "git_blob": "c9a4785f891b2b0619c700c0b4f36e21be1711e9",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/drawable/icon_3d_sdf_1.png",
+      "size": 26053,
+      "sha256": "d685a4182a36c986d212ba2a351f228f82db77a44ae8848263cf67cdcf771f49",
+      "git_blob": "b326cb0b143865d26ae1b337b1c97492f6b23953",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/drawable/loop_club_icon.xml",
+      "size": 964,
+      "sha256": "f52266678e2e040c35344c2aec3eb4d8025ffd8ef2f75f6eb5e141275dcd846d",
+      "git_blob": "67429a80d12ff68c95a56d54705838e9181823d6",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/font/loop_sans_sc_regular.ttf",
+      "size": 9933004,
+      "sha256": "bd3986491abb181681a6feafb785333e6e36f1735357284673508bec6c552eac",
+      "git_blob": "12ce6da62cb5e39a4f3c99b786723759c6cc033f",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/font/loop_sans_sc_semibold.ttf",
+      "size": 9923076,
+      "sha256": "a18f967b3d1f78dc48dd3a2e1031632bf75d3989634c62aa5a9d63dc5e5d93f8",
+      "git_blob": "63045aaf1759a8aade3b0532a7ce2775c30f30c2",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi/ic_launcher.xml",
+      "size": 273,
+      "sha256": "6816d13425eb7e5a1f32d3531eebf146e5be0642c92d40de9281743cb80954a7",
+      "git_blob": "55771eca24cb7a5fddc625802c775ec70e02dc1d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi/ic_launcher_round.xml",
+      "size": 273,
+      "sha256": "6816d13425eb7e5a1f32d3531eebf146e5be0642c92d40de9281743cb80954a7",
+      "git_blob": "55771eca24cb7a5fddc625802c775ec70e02dc1d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_spatial_launcher.png",
+      "size": 315383,
+      "sha256": "d7d4df68adc56bf4ee27a14ccff5bcf174aa9e45d6ff3adf36e3751246764c76",
+      "git_blob": "91d97557df1960e5477daa956a1763e9feeeef32",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "size": 379,
+      "sha256": "57681038afd005dcd260eabdd6d16619709c4a3fe20324362ea00e093e85b5fd",
+      "git_blob": "ca1931bca99e3b8a4c753ae1a1c41428e5622484",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/values/drawables_3d.xml",
+      "size": 339,
+      "sha256": "b184f12693135aee48fe26d4413cf7c2c311e7abc96ff647290b6abc57cb6d04",
+      "git_blob": "f607e7afaa636280f2fa3cc2e7cf3752ed6ea38b",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "size": 140,
+      "sha256": "4ac1d2b885f60e814208abaf3bcc3a47a13e9abceecd0099f83396b369fa297d",
+      "git_blob": "d0da7187819751475a7f41be6fb6c0e1968ca2ba",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "size": 167,
+      "sha256": "747540094ba2395067a11145483ba6cc9063d04721d048e43ea24e6480727a0c",
+      "git_blob": "3581d1a147f2b41ad2a718dd81ebfbe0aafe4c24",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/values-night/themes.xml",
+      "size": 167,
+      "sha256": "747540094ba2395067a11145483ba6cc9063d04721d048e43ea24e6480727a0c",
+      "git_blob": "3581d1a147f2b41ad2a718dd81ebfbe0aafe4c24",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/xml/backup_rules.xml",
+      "size": 479,
+      "sha256": "602e880ca25c32b557c19cf6d9172e9bf55595cf6440d476d1787652f5889e49",
+      "git_blob": "148c18b6593d922c6d96567bb22251a151668f5b",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "size": 488,
+      "sha256": "b2e1daf7a7e6fe1f28d49ab9eae35a77bc74a4f443aeeb44ca2275ad2bf51835",
+      "git_blob": "7b7d3cb5009565a5144648a4b25de771a6df7409",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/ArrangementTest.kt",
+      "size": 12275,
+      "sha256": "418bc28988e1b86f4b2b7c8db4bdf968955874b81671ffe9666a7ffb1687cf2e",
+      "git_blob": "9cb6270706de6461e012f6e702ee46d28247c3ec",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/AutomaticPerformanceTest.kt",
+      "size": 6809,
+      "sha256": "94cccc052c691ce077adaad3e1fa70e14e29e39c308c0a90e632cff2ff31f831",
+      "git_blob": "2d973e53bce101c7b35ba75a30f1c2115949c1b7",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/ClubLightingTest.kt",
+      "size": 1898,
+      "sha256": "27016b67eb3920f1f36f175bc1a7d4185af02410fc9308f421107c7096f381c1",
+      "git_blob": "5956246a8e897d7443b253eb172d9e7f296a2164",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/ClubMotionTest.kt",
+      "size": 5925,
+      "sha256": "412bafb0f6be7d22a6cedf5e8c1bdfb488dd0ede43a390886978a31695e0d8d6",
+      "git_blob": "51c590f794928873ca608761e06099efba80a268",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/ControlOwnersTest.kt",
+      "size": 1025,
+      "sha256": "64f01aacf83ff31ebe17d020ae3373952a6523e48975df2d2c1e36e67b5b455d",
+      "git_blob": "6d1b890eab813acbfd7db553191158bbc61d2a6b",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/FingertipGateTest.kt",
+      "size": 9853,
+      "sha256": "502c57741d8717056398e3414d8f189dfe8ef2f34b3236982de1c2eb057dd556",
+      "git_blob": "c720e1cd951f48780107d76deed63976c1d55727",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/LoopEngineTest.kt",
+      "size": 6834,
+      "sha256": "7d0924f56b675cf5e29222df31e04345f60d39b8a6a315dc50d63cb29d3c68be",
+      "git_blob": "7626837ca711f8e03f47b7e0246be1c7b7e61984",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/MarkerPredictorTest.kt",
+      "size": 2593,
+      "sha256": "aeb6260d310558c519664d183e92e9bae634e3bde6aaed4d04732ecb60b577c4",
+      "git_blob": "67b104dd6c51338f2d63107b216d1926b3078567",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/NeonProductionTest.kt",
+      "size": 4820,
+      "sha256": "307a5a7c9a2ef1eba796166b15dc99e492c9b92d0a33cb7601d166877f62e2b3",
+      "git_blob": "fb5a4f5ba36947f1ea05668d669ed9824035fe7d",
+      "mode": "100644"
+    },
+    {
+      "path": "app/src/test/java/com/example/spatialdj/p170bd28c/SessionFilesTest.kt",
+      "size": 2206,
+      "sha256": "e6517b97736234f3a20b5adba2bead5051627210af1558b58713dd135a55fe0c",
+      "git_blob": "88429350c0eb036c54e29d111c5c2edc9c64f345",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/implementation.md",
+      "size": 17682,
+      "sha256": "1dc2c563afe07b0c9d13a756842c1a7c5137bfbcb4bf74cbc40d4f7317b6ca20",
+      "git_blob": "7fad5f8e05d35106983db02f380a7295fef31ba6",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/index-marker-verification-deferred.md",
+      "size": 4545,
+      "sha256": "df220980c6aa0ca9761a2139e4c2dd1d6213055bae3426f748f2de5b9cf7edfd",
+      "git_blob": "6e9d9b7cfc3fe051ff8c4aed28f39926d10052df",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.1.md",
+      "size": 3788,
+      "sha256": "8a0b88fc599ea9fdb093ca2dbc48bf3fbe5a026b2371dc5c032d9729df0df6c3",
+      "git_blob": "4097df650d893f42a37f202cc12e9f64468d888b",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.10.md",
+      "size": 682,
+      "sha256": "0dcef4a3284d6e5ab0ce1708e8097eb411c1312358d64dfd295d18fa2b0aaea3",
+      "git_blob": "c2ca5f4eb18c25b30ddf95a46fddca35e2f90d95",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.11.md",
+      "size": 1512,
+      "sha256": "ac63aab0b8a5f7849b9d201366c61dd6e5b8eb570bb65219ff32372c158d609d",
+      "git_blob": "59baad61e7e96718490b1eeca283fc542574db4f",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.12.md",
+      "size": 3339,
+      "sha256": "397a8277018d31ef3e1d0f233b3fa6369f9ae0d626045e6a92932471e6a37dc1",
+      "git_blob": "e09c5ff2f207d362236730df15f0d498f84d8aba",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.14.md",
+      "size": 2078,
+      "sha256": "e057ce3f9002b17e4e41300356ff580c5ca98b66f8dfc8a31510a8ac170513c8",
+      "git_blob": "89a3d37f4fe457e927aebc4ea93519ce18d624a0",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.4-work.md",
+      "size": 2861,
+      "sha256": "ae052ffa850bcadf4e9d0ebb71e2234b61a4062eab179a389ba9580f9d6c7f71",
+      "git_blob": "be2f2294e95db75b4d872b2e5d035072dd555bb6",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.4.md",
+      "size": 3941,
+      "sha256": "9c9f1bfaf3eb4874ae2382e8442b125c254a13bc217410fcc1c43e8d54386dbe",
+      "git_blob": "f6d0841d52bbe7c06d3d71fbe63d643e66dd470b",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.5.md",
+      "size": 2013,
+      "sha256": "5eeb05922748c09c19491a788fc9675e1c80211c7b210c69040136395f4a4358",
+      "git_blob": "72b09342dbfd8b54651b777806c6dd15fa410397",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.6-work.md",
+      "size": 2158,
+      "sha256": "b4605cfb463c56bd717b7dd89bc2f761b5efa3a37d24f158dec39815f45bc4d3",
+      "git_blob": "7c29a7809c6b0a4a638a192bb5916242827fbdac",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.6.md",
+      "size": 2458,
+      "sha256": "6130e8e53908fdb38e4fd1e0071000d32b0d5e5be330c6a1ba43371fb7ad4b60",
+      "git_blob": "3e73c2e98f2fb1572f4378815d46ba7f8e12fd57",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.7-work.md",
+      "size": 1319,
+      "sha256": "0b2c44a308ebcbbb3382c380d6f87cf9bcc3c3f9c96bcb0d089b7a97c2be2541",
+      "git_blob": "148677bc5fc2b3120e05b3c0f9de6d55a07ac72c",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.7.md",
+      "size": 2701,
+      "sha256": "43881e8675b08a1e795c5006297303badb95da1dc9b627e555c3d0c93d08033c",
+      "git_blob": "628b99113548aaebeba3004d413ef9c578235ec6",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.8-work.md",
+      "size": 1276,
+      "sha256": "ced2fab71b7afedbd183716d4104057b4d61a1efb5ff9cf5d27a881a93c79c61",
+      "git_blob": "bb9e7c6a59eac955a1b036697eb927c1b959264d",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.8.md",
+      "size": 1110,
+      "sha256": "e29f1d2291c765da11aa23b4fc0f59eac8cfa85a3d3b929f2c9f676b335e8008",
+      "git_blob": "69220300c1f847cba38064c95fbda71ac22e3528",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/revision-3.9.md",
+      "size": 906,
+      "sha256": "eec8d62539f7999bafce76a2a6b2846423822d94068fba757310b3892a35ea0c",
+      "git_blob": "4667d6ca9c6fcd7654d8ec49073ca64c8867b93d",
+      "mode": "100644"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "size": 1822,
+      "sha256": "23a5d1e120481dc1397f81a7d77dde3ed21621a2686116d24fff3f9b7eb0f77b",
+      "git_blob": "190cd7e94e4e96ada936e02c75f289e41f792409",
+      "mode": "100644"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "size": 59203,
+      "sha256": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637",
+      "git_blob": "e708b1c023ec8b20f512888fe07c5bd3ff77bb8f",
+      "mode": "100644"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "size": 251,
+      "sha256": "cdab1ffb439219b1db125e3c99a86cf2424f8762b9b3faa404ed061e3635ecde",
+      "git_blob": "37f853b1c84d2e2dd1c88441fcc755d7f6643668",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/README.md",
+      "size": 1881,
+      "sha256": "3d4a1bc01f3eaeb5126e2523ea741297db89d3a497d303dbafb990ccf7e7a4ca",
+      "git_blob": "b2b0bb25e83c6b1e5b8b1816724ca29ff3bb5ad5",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/master-analysis.log",
+      "size": 127807,
+      "sha256": "ed68004de0c743dc5070804c1a552a16813001386cb8a2363bd838c19653584d",
+      "git_blob": "5700830d7ba83cad46715b96ce7af682ee624de7",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/master-report.json",
+      "size": 388,
+      "sha256": "edcbfc5bf1778caa0bfb649a389c4e8126bbc706ab185084ffaebee269936daf",
+      "git_blob": "453e559f0ef15767093d254032fc2dbf86876900",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/mp3-encode.log",
+      "size": 985,
+      "sha256": "1311905e659dc868b0657236bf3f39d5f9c500368aa8c331f131efbb0addb288",
+      "git_blob": "afae253edeb112c03c062215a1a06f2dc52092af",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/neon-bounce.mp3",
+      "size": 3002020,
+      "sha256": "2e5e58a3d1a39292a385522055a102772b512fc33417f53f572c598adf5710fb",
+      "git_blob": "33393b67a0dec9a2cfa0a1f23d31ba193b4c42dd",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/neon-bounce.wav",
+      "size": 14400044,
+      "sha256": "b88e6f926e6b8ae8da1fc2bf61bdd94711be78efaf5f5868fb0696fdf2b43d24",
+      "git_blob": "b04498db8f1cbee56375c4dfeaf9ce87144b6cf3",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/produce.py",
+      "size": 10990,
+      "sha256": "d7fe132741f69df6d12ddb493443c6f5d1da8477d2fb6c8b801d71c361c491fa",
+      "git_blob": "c77f404fbfe2c0b57c86aaabd447085ccdbebd47",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/score.json",
+      "size": 97873,
+      "sha256": "f9fe483a5091a5b40db1f6c90677471d359e4d435b70539a9614a4aa6aba9538",
+      "git_blob": "efca1f7e8948f954cc95950d6237356cabdccfb9",
+      "mode": "100644"
+    },
+    {
+      "path": "music/neon_bounce/sound-bank-report.json",
+      "size": 3415,
+      "sha256": "3b618884d618fad2b8075885b389a1770eba8a276474c4202222df9e315dcf1e",
+      "git_blob": "00e0defaf75c8cf8e43ee45bcd0456e61af9f289",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/README.md",
+      "size": 932,
+      "sha256": "80df55ba520674800481fcfbfe1f0e8d9df8dfbba40e90abacb6c2edece664b1",
+      "git_blob": "52d5f02d4e70a610b9f41b0b5de9f3bd4ef5bf16",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/compose.py",
+      "size": 16708,
+      "sha256": "0b62cd8b00a082403e03d8f9de3304d23edb1a957a61c1db860924178d8a121e",
+      "git_blob": "84290de8651156b8e272624174b94a34602950f8",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/render.log",
+      "size": 1235,
+      "sha256": "c33f1c987f9620af0d995d346677b89b92eb35d45260c89c65c52049e69423bb",
+      "git_blob": "a8098d7f6f969012cc453ce52763d8045a0c010a",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/audio-check.log",
+      "size": 207272,
+      "sha256": "4b67b1998cd7ebeeb1502b95c49059fa1b4c6a320224f361e9530ec0fa735646",
+      "git_blob": "b2e2f3ae7daa8c1aab2750936be16e59a39db0de",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/composition.json",
+      "size": 1076,
+      "sha256": "23b5636009c6a540fc7ca1f750f868fcc29c86afb95e60cda8f148525edb8ad1",
+      "git_blob": "b7c479c2c0456dc9360fb2f884121ac4fb15e954",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/loop-contract-check.log",
+      "size": 303,
+      "sha256": "3861630e8d9531e5afd267d7c62f2b87984e2023f669e98a3378c87014628937",
+      "git_blob": "1ec2ec7420e03b68c017b8896aed5aa5554dbd32",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/sakura-current.loop",
+      "size": 2018,
+      "sha256": "093ca1d85f7ae30bdfa76e1d61744451e4c71e784c19c05b5af5ebde344a72bb",
+      "git_blob": "569fbc661f02332a738782b16fde17da7103d999",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/sakura-current.mid",
+      "size": 16047,
+      "sha256": "822c2bec57ec9ea8eb234a7d7eca3545928d45f64b5c7aa1b2e59377b985c330",
+      "git_blob": "aeb06e325f45a998886519c1dd176a30fb0a2881",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/sakura-current.mp3",
+      "size": 3906118,
+      "sha256": "2f8511fe40560a1724d991dbf978a93af5e17bd62642c2055551057bbc208783",
+      "git_blob": "5f3f8f7857807c50c534426044e0538f49d24e95",
+      "mode": "100644"
+    },
+    {
+      "path": "music/sakura_current/output/sakura-current.wav",
+      "size": 23424044,
+      "sha256": "1115e554feca6466c9413d2b2564da226fab3f5cb67e8584efc69972920caad4",
+      "git_blob": "629a7ad14f8a38aee2751a1997e181486769186a",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/README.md",
+      "size": 1859,
+      "sha256": "33671a03a6906e5b9ef4bf48528105e6cc7761bbcf803a24432f041ffee17d96",
+      "git_blob": "54e59fc4c539ace7109d764634ee0013459ff2d0",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/latest-run.txt",
+      "size": 85,
+      "sha256": "e765a4a612e2b48e772b68f5da821d823a570b69e013e2396cf58e8eae4f9418",
+      "git_blob": "dd4bb332f14edac97ae252bf75278b5631d77e7d",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/perform.py",
+      "size": 336,
+      "sha256": "69668d365ec460a882e71813b28fc2daea6d7062a5e7174948bf3da6a3eb7f05",
+      "git_blob": "8644b0bf881d7aab5568cd06025f7e71ef52985d",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/score.json",
+      "size": 3691,
+      "sha256": "cf1af647c59031bcf1f108e572cb82461c23f955d2c2cf8a1684ba940c47afab",
+      "git_blob": "23e8a5503109388bd74a827cbdb792f670f029d7",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/instrumentation.log",
+      "size": 742,
+      "sha256": "c79579f236509ebeb0d27f943d765eae1590e23143a403363e60d0758223eb20",
+      "git_blob": "e3f2f97b78998db2944f519fba2e5aed3d34c4a7",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/listening.log",
+      "size": 750,
+      "sha256": "3268c92343955e3540ef2711e432d914d0fc92d6dc1beb574dc8df19741f90ff",
+      "git_blob": "6e4be5cc9fbf8f63cd708f1bd995ccd12c7acd01",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/listening.pid",
+      "size": 5,
+      "sha256": "895fbc75eff09af607f9482547ea14fc4af31dab53b8bdee950f3ba8305c8650",
+      "git_blob": "c3e8ba91df190572e3eccd8b15e80a0e9674f58c",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/result.json",
+      "size": 29154,
+      "sha256": "e6967b7dcaf8ac1581ec3ede49fc27fe6a9197df1eac4118f0d787a81ec119af",
+      "git_blob": "566c3a798f15b66db104f6b7265031bdc7e839ab",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/score.json",
+      "size": 7582,
+      "sha256": "cf76f962961362f8320c55bcc7deecf499b875f397db4720351e7b0c0b01d2fa",
+      "git_blob": "ac02ad1cdf9a83bbc1c9be4582850ff73c08151e",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/susanna-house.loop",
+      "size": 1666,
+      "sha256": "b5c75f196ea2f9d67bb3f649d4d2207d408de20678a32a29e4c31e0956342aa5",
+      "git_blob": "e2ee7654fea131f7545c2d72238468add2d57866",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261027-204125/susanna-house.wav",
+      "size": 5671432,
+      "sha256": "9cca1348fe0eac740902e434954cc4cf36565cd5aed8d3602a969f739d32df28",
+      "git_blob": "81747157042c54389712de4d07ad1df82339eb53",
+      "mode": "100644"
+    },
+    {
+      "path": "music/susanna_house/runs/20261028-150623/score.json",
+      "size": 7582,
+      "sha256": "cf76f962961362f8320c55bcc7deecf499b875f397db4720351e7b0c0b01d2fa",
+      "git_blob": "ac02ad1cdf9a83bbc1c9be4582850ff73c08151e",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/README.md",
+      "size": 3211,
+      "sha256": "d359517b55871ad517e59b97b3200615d4674aa04c9fb989f311cf95238e643b",
+      "git_blob": "3b5bb35b1e8f0846b047f4d7c177fae2fc3ef8a6",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/latest-run.txt",
+      "size": 83,
+      "sha256": "2a88609f8f54cb62c2ddca9423a3c7be0ed6b671ace63b66e3ce7f86f3881b51",
+      "git_blob": "377cd495d5073d0ed4c45c309c09a38061445cca",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/perform.py",
+      "size": 5546,
+      "sha256": "702dd710f7ff08858639698fa8f6bdab15ed3fdfaa1e4a137ff32b1bc4294e74",
+      "git_blob": "b47b4fbbd002cdcda33fca8aa72e1ccb9750901d",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/score.json",
+      "size": 3512,
+      "sha256": "71a32111437036e60e0b1e966a5208e5af0179e96e59106929c5e33cdab9106e",
+      "git_blob": "924e93c214ad46d0ded52f31890e2460393d5d2e",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201230/instrumentation.log",
+      "size": 3414,
+      "sha256": "5926de6776537566deff769a4f04bd2d9256219bdaeebdb0a7e247ddaa4f06a6",
+      "git_blob": "0293b2b5246cb8a3372cbb58e8f85d53c19fcb77",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201230/result.json",
+      "size": 7367,
+      "sha256": "b4cb1f2b877adfe069a29a487ed90f123fd227f7e0ac6bc8a236f23dbc3b54c8",
+      "git_blob": "2b16152c41d645d8aed71c685018ba1bdf2d561b",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201230/score.json",
+      "size": 7463,
+      "sha256": "fed0886ecd356c539f1c6eac0488ed7a652b8ac78ebd9419f01e05a744a96fcb",
+      "git_blob": "3a685cb7c4591fb85798e86a9847dbfcbd208228",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201346/instrumentation.log",
+      "size": 3340,
+      "sha256": "ce15ef5e4e746e7dfd4ffca857917a65c1f85b72b1a0192834f71789b4a0218e",
+      "git_blob": "8fc9f5e1df2eb6d550960e8ee00beee418afbf66",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201346/score.json",
+      "size": 7463,
+      "sha256": "fed0886ecd356c539f1c6eac0488ed7a652b8ac78ebd9419f01e05a744a96fcb",
+      "git_blob": "3a685cb7c4591fb85798e86a9847dbfcbd208228",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/instrumentation.log",
+      "size": 742,
+      "sha256": "ebda229ef04a503f37b9113648dc051e03b957196438972a41fbea630c846911",
+      "git_blob": "a34f85b007113136ebf7b0f3195cc8011d4c10fe",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/listening.log",
+      "size": 750,
+      "sha256": "d55c295bc19d496c7ce1526e2c773eabdc37e6c637b0fd4cc80ab68f448a6f4a",
+      "git_blob": "1c68cb4f8b03dd09a93b2788e09b926cad8e0612",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/listening.pid",
+      "size": 6,
+      "sha256": "5489c2d063eb3cb88e963150aec7f1d59277dc5680e9560cdb7bfdd9687ec98a",
+      "git_blob": "bd93ecd2f5db222e703a81b87697a447d9cc3f08",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/result.json",
+      "size": 29320,
+      "sha256": "3e0e645b67e1a52e78dbf7215690c15e351159412857e642b26f13a0cb6fac11",
+      "git_blob": "28c1e7a5beab93703f08f20a383750eb2ae2317a",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/score.json",
+      "size": 7463,
+      "sha256": "fed0886ecd356c539f1c6eac0488ed7a652b8ac78ebd9419f01e05a744a96fcb",
+      "git_blob": "3a685cb7c4591fb85798e86a9847dbfcbd208228",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/touch-house.loop",
+      "size": 1682,
+      "sha256": "4a0781471f7af6909f79a3db00c2f8ba100a946cac01e40310a1b37a33eaf43f",
+      "git_blob": "2abdf3f5c4401db4e8a0aef24378748d0fc16e42",
+      "mode": "100644"
+    },
+    {
+      "path": "music/touch_house/runs/20261027-201632/touch-house.wav",
+      "size": 5671432,
+      "sha256": "9efa567df545b2ce7c78e740b018b326686d3509c99f494e5a2eb5dbd5e4c321",
+      "git_blob": "6fdd21f5ad453d10d8cb2c561da6588d5d8c3335",
+      "mode": "100644"
+    },
+    {
+      "path": "tools/font-manifest.json",
+      "size": 730,
+      "sha256": "ff220c36a0e0107fe0b820d2f023528cf05c1a8b857bc0e9a72013fef77fa34b",
+      "git_blob": "f1de8805b80ce7d6321078393fa484d0be249aae",
+      "mode": "100644"
+    },
+    {
+      "path": "tools/generate_club_ambient.py",
+      "size": 726,
+      "sha256": "618f6e3deb9b8eaea756fb4ddc2b92b8bde2a5b937e561edc3d0d49e70603efa",
+      "git_blob": "93b14b22d05ed7af1c5b76b09fe20992e7e36562",
+      "mode": "100644"
+    },
+    {
+      "path": "tools/prepare_fonts.py",
+      "size": 3599,
+      "sha256": "386217546df516ad7efe2df48eff0130f71803dfd1f39cf8716a4471c1fbb348",
+      "git_blob": "6a9f28911bef2a08b06f59e74356983069307fa4",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/SHA256SUMS",
+      "size": 190,
+      "sha256": "1f8c667e35a92d7c35cab4e4a89a1c5b8c784bfdd00bd3562daf762c4ee17ed1",
+      "git_blob": "f7031c22a7337c70cc8c1ab3cdc71221bbb2c4ee",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.ArrangementTest.xml",
+      "size": 2212,
+      "sha256": "4a5c68814565436361917719072c017f7d777e201ac544103d2f7c4982a84af8",
+      "git_blob": "8c5d5ebdb66a12b04de46ae163c8a1e4d9454b9c",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.AutomaticPerformanceTest.xml",
+      "size": 1299,
+      "sha256": "f407e615fbe19cf36697ef32e4e0d3212b907392233d367a0089ce6e302610c4",
+      "git_blob": "f03964cc364a93bcbd3c5666a05e76d0928a2eaa",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.ClubLightingTest.xml",
+      "size": 650,
+      "sha256": "c83012320eb13a2754e997b1ee227c2c389dfb0023d10bedc9e6d0370e39b7ac",
+      "git_blob": "fda971c29cf02c7808a517f2c1b8319e559e937f",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.ClubMotionTest.xml",
+      "size": 1698,
+      "sha256": "0a79fb8d9cb2304502e1733d3a26a9a3615c98262ebb152e0595010d8debe305",
+      "git_blob": "aa3c47733f8606678262f1b56d110d7b34326353",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.ControlOwnersTest.xml",
+      "size": 628,
+      "sha256": "2e1ff5ccab8df9519770439e0b01ad994f92b61fc18aa6a6c9a77c8b97a9dda9",
+      "git_blob": "4f4c9a2165c4f70b6d114563f5750bbd8f34fa55",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.FingertipGateTest.xml",
+      "size": 4293,
+      "sha256": "c44ac6106d16c0043932d22ccc49f7aebe0a961e5c6ac6a3a5c3519e40161f36",
+      "git_blob": "cd9093826d9a92007ecdf0a6dc3deda6ccbfe4e6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.LoopEngineTest.xml",
+      "size": 2242,
+      "sha256": "993adb097659352d76e4c81c70a606b8a580a1dddca6d6df45f2c81c77886423",
+      "git_blob": "d39825f9b8fd4643ca47bceb710ba94fb378fa4d",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.MarkerPredictorTest.xml",
+      "size": 947,
+      "sha256": "9c81022017f59c34bf4c3eb03897f1e09cc601a6aa392a16875f816bc4b52f29",
+      "git_blob": "f9d4bc7d25175de1ddb76e6b318659d3b3e09d98",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.NeonProductionTest.xml",
+      "size": 953,
+      "sha256": "6bf5260fb53d0f1167009cd41d7f81341b3ec7e03a4545b15f200cf80e18859f",
+      "git_blob": "c3f81edeb17a59296a64ab365360e60b48d6584f",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/TEST-com.example.spatialdj.p170bd28c.SessionFilesTest.xml",
+      "size": 759,
+      "sha256": "c74f82bb330132506220a5cb34b92a9ffbffad87eb551ff805397a890b746944",
+      "git_blob": "bf435863d05334d00515545ba0ece39fbdae8c13",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/automatic-report.json",
+      "size": 2975,
+      "sha256": "48e59e8f06791caaf30a7b75cbc3a7249f1edb37b0b2a6080f0eb7d057fb3156",
+      "git_blob": "482a51b8e123dec7b1608dfcc72f451e92ce5da4",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/build.log",
+      "size": 4229,
+      "sha256": "8ce8886f85dcb712275ad0f4e9172fa95290cea575d0a47922dddd59d4a28682",
+      "git_blob": "921d50f116cff4659bfcdc8014908240f9e3039f",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/club-room-report.json",
+      "size": 1171,
+      "sha256": "2639c4c29fe9c48175592fbb3f683833cf62cf99f2a8ebf34cb3ec1af125ee58",
+      "git_blob": "740e023ba7e100a2d43d31dbf9d29360251b5049",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/crash-logcat.log",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/delivery.md",
+      "size": 3185,
+      "sha256": "fb69cc53e8feb6b05d388ed2485ee026205de2c6e8d107121b15b5abb33cc045",
+      "git_blob": "c7f8ea4238d5eb746f7eef5a98cdaa1c1d6319d5",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/device-logcat.log",
+      "size": 469497,
+      "sha256": "acab6cf924e057ec91980625e274690f365cd2209f7ddee7ab71d15560996e86",
+      "git_blob": "e33966c966ccf59e60625641e16b1258263a72bb",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-ceiling-spots-build.log",
+      "size": 2081,
+      "sha256": "135910d2248a10e5a80dc6f1884a29f69e0a331182d874b55efb3bad8b9bf4dc",
+      "git_blob": "6ee9305b57ddf8678bf945de2a107e2ca64e168e",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-ceiling-spots-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-current-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-four-lights-build.log",
+      "size": 4066,
+      "sha256": "cf2a2f33196777c6d28fcc79deef086e66815352c7270b2bb6c933308d703f91",
+      "git_blob": "2a57ff6c7ca4dd2da08fcbafce6b68cfe6096738",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-four-lights-logcat.log",
+      "size": 8107,
+      "sha256": "ebea7cf06a665cecae00f9d5202329fcc148f730e78582ba2e49e558d28356ec",
+      "git_blob": "82fd39eef5d1855d8f286a0d6e8bf1a277abf847",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-four-lights-smoke.log",
+      "size": 739,
+      "sha256": "33ac4b33918e44a16cb9801b28a3a64b1fa1422adbc2b28dec05c1c223d2bb58",
+      "git_blob": "b9b6fa1bea3d590b1e8a15e28f7e303627d14f19",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-layout-build.log",
+      "size": 2081,
+      "sha256": "90f8686941aa11bb766a3129cd6232cf09300eb5962d777dc1b83e8c74273073",
+      "git_blob": "eb23c3aaf0f23b758ccc1c531fadc156ef85da06",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-layout-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-light-radius-build.log",
+      "size": 2081,
+      "sha256": "135910d2248a10e5a80dc6f1884a29f69e0a331182d874b55efb3bad8b9bf4dc",
+      "git_blob": "6ee9305b57ddf8678bf945de2a107e2ca64e168e",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-light-radius-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-listener-only-auto.log",
+      "size": 440,
+      "sha256": "a1ebf74c9a78abec2510d4bff579eb71a03293511771b5ddec430bf9465f1deb",
+      "git_blob": "a5d0a159b0c7dad675f775a6b1746b5fd176dbdd",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-listener-only-build.log",
+      "size": 4033,
+      "sha256": "74b995c2c5bd1ed5c5b41183af173e876e5e327c6f99089069d9a50d508da47d",
+      "git_blob": "c2c7c75e4c00a765c44bed69e09a7fa4a81daca4",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-no-flash-build.log",
+      "size": 2081,
+      "sha256": "5e07f8d6ef74213d9a5f506e471778772ac23d2a19beea72682fc32733e3d766",
+      "git_blob": "d3ca41dd5341bfac88e6165845afc369153a7df2",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-no-flash-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-old-room-build.log",
+      "size": 2081,
+      "sha256": "5e07f8d6ef74213d9a5f506e471778772ac23d2a19beea72682fc32733e3d766",
+      "git_blob": "d3ca41dd5341bfac88e6165845afc369153a7df2",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-old-room-smoke.log",
+      "size": 739,
+      "sha256": "a6f26c730f4c89072a47d68f29706a71cff521289e96b761d6c7e80f3d357769",
+      "git_blob": "74e58558ced722e6aa50a19d4bead557a4943e08",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-opposing-fill-build.log",
+      "size": 4066,
+      "sha256": "f7fb0637ed0c01517b8f85a9dfd3910e8aa3eb26c4daad34f6e3d52f7823369d",
+      "git_blob": "61204398af2c5fc70e457137c81e3fa3c5fd4b76",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-opposing-fill-logcat.log",
+      "size": 24354521,
+      "sha256": "bd38e70ffbb33a743dd64fc546346fa1f74e1bc1e7823841708c217e8ad97497",
+      "git_blob": "5e00ebcbca0752c9c89c8de85a4b3267203d5d77",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-opposing-fill-smoke.log",
+      "size": 739,
+      "sha256": "e78759a7f02869b0b4133337ba9ac8e243b1c3275ca27375218798581f8f37a4",
+      "git_blob": "e9bb939127795854915a24627ef12f4512dbbe00",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-palette-build.log",
+      "size": 2081,
+      "sha256": "90f8686941aa11bb766a3129cd6232cf09300eb5962d777dc1b83e8c74273073",
+      "git_blob": "eb23c3aaf0f23b758ccc1c531fadc156ef85da06",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-palette-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-point-fill-build.log",
+      "size": 2081,
+      "sha256": "135910d2248a10e5a80dc6f1884a29f69e0a331182d874b55efb3bad8b9bf4dc",
+      "git_blob": "6ee9305b57ddf8678bf945de2a107e2ca64e168e",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-point-fill-smoke.log",
+      "size": 423,
+      "sha256": "8a5379497ae22d845c5fd25168ca775e5791de95f6deaa544113fc4c0da78a78",
+      "git_blob": "b5d3d58a82124e74c96d5e9a8de7e8e7f92b58c6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-smoke-build.log",
+      "size": 3153,
+      "sha256": "6d82064c09802f58d19f2ea877d33fce007141473e62338ece6208dd0c491566",
+      "git_blob": "6d045f4b3004bb9b21474a60d4abf1bc68b2d1e6",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-three-lights-auto.log",
+      "size": 440,
+      "sha256": "a1ebf74c9a78abec2510d4bff579eb71a03293511771b5ddec430bf9465f1deb",
+      "git_blob": "a5d0a159b0c7dad675f775a6b1746b5fd176dbdd",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-three-lights-build.log",
+      "size": 2081,
+      "sha256": "135910d2248a10e5a80dc6f1884a29f69e0a331182d874b55efb3bad8b9bf4dc",
+      "git_blob": "6ee9305b57ddf8678bf945de2a107e2ca64e168e",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/diagnostic-v3.13-smoke.log",
+      "size": 738,
+      "sha256": "0c5db758694056782a3a5c7514264f35672f7876ccbce4eba6da70f9ba6e2b4d",
+      "git_blob": "b8e6a9cab0c4bb3301d55497687a6ba997fd1f51",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-automatic-logcat.log",
+      "size": 38710,
+      "sha256": "ee17260ac2a37e8a9efa7615adb91991339ab96909770eb95318086cdbb30aed",
+      "git_blob": "526cb25db4460a8f172f9d16be94cc7983081fd1",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-automatic.log",
+      "size": 774,
+      "sha256": "dd1d8b2fa9615cb0f777e5df34a11ef482a6379970fb2b7c1145e1be2b3aa989",
+      "git_blob": "73803287b808e8fca925d32add11d38d518b31f3",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-build.log",
+      "size": 4338,
+      "sha256": "159159f5a69955c14834423fa6fa95b8d792510768dc757c0e4b9dc86a38eb65",
+      "git_blob": "2d07f8e13f7d684d82e187fc2ec9c565f2cf0cd0",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-install.log",
+      "size": 36,
+      "sha256": "781a31c82430c97897af612ece5e0ca2205e301cb5ff121ce2660541ea5182c7",
+      "git_blob": "a14462dd518b8f6257e63e52c537fee9b987ef7b",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-launch.log",
+      "size": 110,
+      "sha256": "fe5db37bd89b690fd87cac23310938ff7d6004bae2f805554ad4726f1b00f2aa",
+      "git_blob": "f919e2af6b0f69f84850d6d7a7fb3b163ad5f77f",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-package-build.log",
+      "size": 4077,
+      "sha256": "c7f74096bfb2c9deb879023a86bef19aace59f8c109973dc3930a08aabc94a82",
+      "git_blob": "5acac79d3801c9604262a0e087442f3d6d6936d7",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-performance.json",
+      "size": 17419,
+      "sha256": "dc953d53de3563be98c3c0d0ccdf175dc1c4a69bb341c884b3319d4d417c0988",
+      "git_blob": "72f4e214905ccda9eedf2ac648cf8572646a4a31",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-room-logcat.log",
+      "size": 5954,
+      "sha256": "249f85659f97e9c4ecc7de09eb74688415e645146a73e76ef81010d0b76879a7",
+      "git_blob": "188a7382843ad745e0bb3d5f5f5fb450ed95d299",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/final-room.log",
+      "size": 791,
+      "sha256": "3da304a0433249a70618daa96837dc81e52ab28bdfd32451ccc66694abf43c6b",
+      "git_blob": "c073c976d115a134df69bf81f472c515f67af6f2",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/installed-apk-checksum.txt",
+      "size": 65,
+      "sha256": "f59c98364725a0689ca1656faecc26c3ecc414b1f60d6622aa40100126758dd7",
+      "git_blob": "cc519b49dd9a5bda5216e41864870ca979624c82",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/installed-version.txt",
+      "size": 55,
+      "sha256": "7244082da49d583c63914e75876f0988efdd8df4f885acbbdb2c322049cd2905",
+      "git_blob": "0ff5bcc6950c2928581374d9ba45f03212d1f8ae",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/native-automatic-retry.log",
+      "size": 440,
+      "sha256": "a1ebf74c9a78abec2510d4bff579eb71a03293511771b5ddec430bf9465f1deb",
+      "git_blob": "a5d0a159b0c7dad675f775a6b1746b5fd176dbdd",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/native-automatic.log",
+      "size": 440,
+      "sha256": "a1ebf74c9a78abec2510d4bff579eb71a03293511771b5ddec430bf9465f1deb",
+      "git_blob": "a5d0a159b0c7dad675f775a6b1746b5fd176dbdd",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/native-room.log",
+      "size": 791,
+      "sha256": "aec59a464d8741e48f9c8ca9fc000cc3d6cca34c27dd9f512e26ea658b85004b",
+      "git_blob": "c37be50d2ab8fa726e3452e137e0ba800891942f",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/runtime-after-failure.log",
+      "size": 1235927,
+      "sha256": "39a5a550eac738f2f8608d6c31a4592ac0ca21139ba4cc5bfb5ac0a357dd0a2c",
+      "git_blob": "c7b57ec071c296bdb8b45f8e1e99a61f4493ba0a",
+      "mode": "100644"
+    },
+    {
+      "path": "artifacts/2026-10-30-v3.14/runtime-failure-all.log",
+      "size": 43022168,
+      "sha256": "3991d25174390d19b2483d5e80533ffb945a6d36a712fb1c46a3e2135ff70257",
+      "git_blob": "b00c9c5ec7689c038d37eae01a4d2929c2675c85",
+      "mode": "100644"
+    }
+  ],
+  "release_apks": [
+    {
+      "name": "spatial-loop-v3.14.apk",
+      "size": 51036904,
+      "sha256": "a9e549da6259f3c83a5edc0628884eaec3616dedbd8fa70c909bfa97bb4e9246",
+      "git_blob": "cec789ddb0d239cdfd35f5b9abbf3ff6cc37e81e",
+      "mode": "100644"
+    },
+    {
+      "name": "spatial-loop-v3.14-androidTest.apk",
+      "size": 2206416,
+      "sha256": "3f934d02b68606b4d6fa6fac458b7bbb0e95b5a5829c17d747a5a74586efcdc3",
+      "git_blob": "c23c7d81e8e3a996417ea1b7a927845aea013214",
+      "mode": "100644"
+    }
+  ],
+  "excluded": [
+    "Build outputs, Gradle/editor/tool caches, IDE configuration, credentials and local.properties",
+    "Older delivery archives and APKs",
+    "Workflow gateway request/response archives containing transient authorization context",
+    "Scratch runtime logs; source design, provenance, model guides and review documents retained"
+  ]
+}

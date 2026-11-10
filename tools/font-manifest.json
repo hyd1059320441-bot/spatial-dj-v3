@@ -1,0 +1,22 @@
+{
+  "upstream": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+  "license": "SIL OFL 1.1",
+  "sourceSha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+  "uiCharactersChecked": 279,
+  "fonts": [
+    {
+      "file": "app/src/main/res/font/loop_sans_sc_regular.ttf",
+      "weight": 400,
+      "glyphs": 28124,
+      "bytes": 9933004,
+      "sha256": "bd3986491abb181681a6feafb785333e6e36f1735357284673508bec6c552eac"
+    },
+    {
+      "file": "app/src/main/res/font/loop_sans_sc_semibold.ttf",
+      "weight": 600,
+      "glyphs": 28124,
+      "bytes": 9923076,
+      "sha256": "a18f967b3d1f78dc48dd3a2e1031632bf75d3989634c62aa5a9d63dc5e5d93f8"
+    }
+  ]
+}

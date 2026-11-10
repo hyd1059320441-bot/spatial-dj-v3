@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spatialdj.p170bd28c.NeonProductionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-30T09:36:06.790Z" hostname="JXT3V7YG4D" time="1.104">
+  <properties/>
+  <testcase name="sidechainRecoversAndResetClearsEveryAmbienceTail" classname="com.example.spatialdj.p170bd28c.NeonProductionTest" time="0.001"/>
+  <testcase name="sectionsChangeWithoutReplacingRecordedProjectAndRenderExactProductionMaster" classname="com.example.spatialdj.p170bd28c.NeonProductionTest" time="1.103"/>
+  <testcase name="stereoDecoderRejectsTruncatedAndMonoAssets" classname="com.example.spatialdj.p170bd28c.NeonProductionTest" time="0.0"/>
+  <system-out><![CDATA[NeonProductionPASS recordedNotes=106 sections=10 frames=3600000 peak=30186 master=/Users/bytedance/Documents/ai/spatial-dj-v3/music/neon_bounce/neon-bounce.wav
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

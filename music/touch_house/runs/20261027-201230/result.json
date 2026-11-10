@@ -1,0 +1,437 @@
+{
+  "ok": false,
+  "error": "java.lang.IllegalStateException: Missed beat 1.0: actual=1.130638888888889 recording=0",
+  "clicks": 43,
+  "trace": [
+    {
+      "step": 1,
+      "id": "tools",
+      "x": 1664,
+      "y": 111,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 2,
+      "id": "new",
+      "x": 1708,
+      "y": 744,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 3,
+      "id": "new",
+      "x": 1708,
+      "y": 744,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 4,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 5,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 6,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 7,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 8,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 9,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 10,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 11,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 12,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 13,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 14,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 15,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 16,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 17,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 18,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 19,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 20,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 21,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 22,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 23,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 24,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 25,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 26,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 27,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 28,
+      "id": "bars4",
+      "x": 1471.5,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 29,
+      "id": "master",
+      "x": 1711.6799,
+      "y": 1236,
+      "fraction": 0.72,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 30,
+      "id": "tools",
+      "x": 1664,
+      "y": 111,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 31,
+      "id": "lane0",
+      "x": 226,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 32,
+      "id": "vol0",
+      "x": 719.84,
+      "y": 1236,
+      "fraction": 0.86,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 33,
+      "id": "lane1",
+      "x": 613.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 34,
+      "id": "vol1",
+      "x": 571.04004,
+      "y": 1236,
+      "fraction": 0.66,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 35,
+      "id": "lane2",
+      "x": 1000.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 36,
+      "id": "vol2",
+      "x": 615.68,
+      "y": 1236,
+      "fraction": 0.72,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 37,
+      "id": "lane3",
+      "x": 1387.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 38,
+      "id": "vol3",
+      "x": 496.64,
+      "y": 1236,
+      "fraction": 0.56,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 39,
+      "id": "lane4",
+      "x": 1774.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 40,
+      "id": "vol4",
+      "x": 407.36,
+      "y": 1236,
+      "fraction": 0.44,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 41,
+      "id": "lane0",
+      "x": 226,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 42,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 43,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0.05597222222222223,
+      "targetBeat": 0
+    }
+  ]
+}

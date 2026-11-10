@@ -1,0 +1,65 @@
+INSTRUMENTATION_STATUS: class=com.example.spatialdj.p170bd28c.UiMusicPerformance
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.example.spatialdj.p170bd28c.UiMusicPerformance:
+INSTRUMENTATION_STATUS: test=performScore
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.example.spatialdj.p170bd28c.UiMusicPerformance
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=java.lang.IllegalStateException: Missed beat 1.0: actual=1.130638888888889 recording=0
+	at com.example.spatialdj.p170bd28c.UiMusicPerformance$click$2.invokeSuspend(UiMusicPerformance.kt:141)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:101)
+	at android.os.Handler.handleCallback(Handler.java:995)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loopOnce(Looper.java:284)
+	at android.os.Looper.loop(Looper.java:384)
+	at android.app.ActivityThread.main(ActivityThread.java:10432)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:621)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:946)
+
+INSTRUMENTATION_STATUS: stream=
+Error in performScore(com.example.spatialdj.p170bd28c.UiMusicPerformance):
+java.lang.IllegalStateException: Missed beat 1.0: actual=1.130638888888889 recording=0
+	at com.example.spatialdj.p170bd28c.UiMusicPerformance$click$2.invokeSuspend(UiMusicPerformance.kt:141)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:101)
+	at android.os.Handler.handleCallback(Handler.java:995)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loopOnce(Looper.java:284)
+	at android.os.Looper.loop(Looper.java:384)
+	at android.app.ActivityThread.main(ActivityThread.java:10432)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:621)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:946)
+
+INSTRUMENTATION_STATUS: test=performScore
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_RESULT: stream=
+
+Time: 9.538
+There was 1 failure:
+1) performScore(com.example.spatialdj.p170bd28c.UiMusicPerformance)
+java.lang.IllegalStateException: Missed beat 1.0: actual=1.130638888888889 recording=0
+	at com.example.spatialdj.p170bd28c.UiMusicPerformance$click$2.invokeSuspend(UiMusicPerformance.kt:141)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:101)
+	at android.os.Handler.handleCallback(Handler.java:995)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loopOnce(Looper.java:284)
+	at android.os.Looper.loop(Looper.java:384)
+	at android.app.ActivityThread.main(ActivityThread.java:10432)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:621)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:946)
+
+FAILURES!!!
+Tests run: 1,  Failures: 1
+
+
+INSTRUMENTATION_CODE: -1

@@ -1,0 +1,1600 @@
+{
+  "ok": true,
+  "title": "Touch Current \/ 触碰电流",
+  "bpm": 130,
+  "bars": 4,
+  "counts": [
+    34,
+    11,
+    16,
+    32,
+    8
+  ],
+  "clicks": 158,
+  "input": "live-control-locator\/fingertip-contact\/release",
+  "wav": "\/storage\/emulated\/0\/Android\/data\/com.example.spatialdj.loopv3\/files\/exports\/SpatialLoop-1793103484258.wav",
+  "wavBytes": 5671432,
+  "soundingSamples": 30,
+  "trace": [
+    {
+      "step": 1,
+      "id": "tools",
+      "x": 1664,
+      "y": 111,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 2,
+      "id": "new",
+      "x": 1708,
+      "y": 744,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 3,
+      "id": "new",
+      "x": 1708,
+      "y": 744,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 4,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 5,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 6,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 7,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 8,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 9,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 10,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 11,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 12,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 13,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 14,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 15,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 16,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 17,
+      "id": "bpm+",
+      "x": 527,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 18,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 19,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 20,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 21,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 22,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 23,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 24,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 25,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 26,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 27,
+      "id": "bpm-",
+      "x": 213,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 28,
+      "id": "bars4",
+      "x": 1471.5,
+      "y": 868,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 29,
+      "id": "master",
+      "x": 1711.6799,
+      "y": 1236,
+      "fraction": 0.72,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 30,
+      "id": "tools",
+      "x": 1664,
+      "y": 111,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 31,
+      "id": "lane0",
+      "x": 226,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 32,
+      "id": "vol0",
+      "x": 719.84,
+      "y": 1236,
+      "fraction": 0.86,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 33,
+      "id": "lane1",
+      "x": 613.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 34,
+      "id": "vol1",
+      "x": 571.04004,
+      "y": 1236,
+      "fraction": 0.66,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 35,
+      "id": "lane2",
+      "x": 1000.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 36,
+      "id": "vol2",
+      "x": 615.68,
+      "y": 1236,
+      "fraction": 0.72,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 37,
+      "id": "lane3",
+      "x": 1387.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 38,
+      "id": "vol3",
+      "x": 496.64,
+      "y": 1236,
+      "fraction": 0.56,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 39,
+      "id": "lane4",
+      "x": 1774.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 40,
+      "id": "vol4",
+      "x": 407.36,
+      "y": 1236,
+      "fraction": 0.44,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 41,
+      "id": "lane0",
+      "x": 226,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 42,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0,
+      "targetBeat": null
+    },
+    {
+      "step": 43,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 0.021305555555555557,
+      "targetBeat": 0
+    },
+    {
+      "step": 44,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 1.0439722222222223,
+      "targetBeat": 1
+    },
+    {
+      "step": 45,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 2.014638888888889,
+      "targetBeat": 2
+    },
+    {
+      "step": 46,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 3.0719722222222225,
+      "targetBeat": 3
+    },
+    {
+      "step": 47,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 4.042638888888889,
+      "targetBeat": 4
+    },
+    {
+      "step": 48,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 5.065305555555556,
+      "targetBeat": 5
+    },
+    {
+      "step": 49,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 6.035972222222223,
+      "targetBeat": 6
+    },
+    {
+      "step": 50,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 7.006638888888889,
+      "targetBeat": 7
+    },
+    {
+      "step": 51,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 8.02063888888889,
+      "targetBeat": 8
+    },
+    {
+      "step": 52,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 9.034638888888889,
+      "targetBeat": 9
+    },
+    {
+      "step": 53,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 10.031305555555557,
+      "targetBeat": 10
+    },
+    {
+      "step": 54,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 11.027972222222223,
+      "targetBeat": 11
+    },
+    {
+      "step": 55,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 12.041972222222222,
+      "targetBeat": 12
+    },
+    {
+      "step": 56,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 13.01263888888889,
+      "targetBeat": 13
+    },
+    {
+      "step": 57,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 14.02663888888889,
+      "targetBeat": 14
+    },
+    {
+      "step": 58,
+      "id": "pad-0-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 0,
+      "beat": 15.09263888888889,
+      "targetBeat": 15
+    },
+    {
+      "step": 59,
+      "id": "lane0",
+      "x": 226,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 1,
+      "beat": 0.019972222222222058,
+      "targetBeat": null
+    },
+    {
+      "step": 60,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 1,
+      "beat": 0.24530555555555722,
+      "targetBeat": null
+    },
+    {
+      "step": 61,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 0.521305555555557,
+      "targetBeat": 0.5
+    },
+    {
+      "step": 62,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 1.53530555555556,
+      "targetBeat": 1.5
+    },
+    {
+      "step": 63,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 2.5059722222222263,
+      "targetBeat": 2.5
+    },
+    {
+      "step": 64,
+      "id": "pad-0-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 3.519972222222222,
+      "targetBeat": 3.5
+    },
+    {
+      "step": 65,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 4.542638888888888,
+      "targetBeat": 4.5
+    },
+    {
+      "step": 66,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 5.5133055555555615,
+      "targetBeat": 5.5
+    },
+    {
+      "step": 67,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 6.527305555555557,
+      "targetBeat": 6.5
+    },
+    {
+      "step": 68,
+      "id": "pad-0-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 7.523972222222227,
+      "targetBeat": 7.5
+    },
+    {
+      "step": 69,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 8.511972222222226,
+      "targetBeat": 8.5
+    },
+    {
+      "step": 70,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 9.534638888888892,
+      "targetBeat": 9.5
+    },
+    {
+      "step": 71,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 10.505305555555559,
+      "targetBeat": 10.5
+    },
+    {
+      "step": 72,
+      "id": "pad-0-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 11.562638888888891,
+      "targetBeat": 11.5
+    },
+    {
+      "step": 73,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 12.533305555555557,
+      "targetBeat": 12.5
+    },
+    {
+      "step": 74,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 13.53863888888889,
+      "targetBeat": 13.5
+    },
+    {
+      "step": 75,
+      "id": "pad-0-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 14.52663888888889,
+      "targetBeat": 14.5
+    },
+    {
+      "step": 76,
+      "id": "pad-0-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 15.297972222222228,
+      "targetBeat": 15.25
+    },
+    {
+      "step": 77,
+      "id": "pad-0-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 15.540638888888893,
+      "targetBeat": 15.5
+    },
+    {
+      "step": 78,
+      "id": "pad-0-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 2,
+      "beat": 15.791972222222228,
+      "targetBeat": 15.75
+    },
+    {
+      "step": 79,
+      "id": "lane1",
+      "x": 613.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 3,
+      "beat": 0.09530555555555509,
+      "targetBeat": null
+    },
+    {
+      "step": 80,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 3,
+      "beat": 0.38130555555555645,
+      "targetBeat": null
+    },
+    {
+      "step": 81,
+      "id": "pad-1-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 1.0126388888888869,
+      "targetBeat": 1
+    },
+    {
+      "step": 82,
+      "id": "pad-1-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 3.049305555555563,
+      "targetBeat": 3
+    },
+    {
+      "step": 83,
+      "id": "pad-1-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 5.033972222222232,
+      "targetBeat": 5
+    },
+    {
+      "step": 84,
+      "id": "pad-1-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 6.793305555555563,
+      "targetBeat": 6.75
+    },
+    {
+      "step": 85,
+      "id": "pad-1-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 7.018638888888887,
+      "targetBeat": 7
+    },
+    {
+      "step": 86,
+      "id": "pad-1-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 9.011972222222226,
+      "targetBeat": 9
+    },
+    {
+      "step": 87,
+      "id": "pad-1-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 11.039972222222232,
+      "targetBeat": 11
+    },
+    {
+      "step": 88,
+      "id": "pad-1-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 13.033305555555557,
+      "targetBeat": 13
+    },
+    {
+      "step": 89,
+      "id": "pad-1-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 14.783972222222232,
+      "targetBeat": 14.75
+    },
+    {
+      "step": 90,
+      "id": "pad-1-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 15.017972222222227,
+      "targetBeat": 15
+    },
+    {
+      "step": 91,
+      "id": "pad-1-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 4,
+      "beat": 15.529305555555567,
+      "targetBeat": 15.5
+    },
+    {
+      "step": 92,
+      "id": "lane2",
+      "x": 1000.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 5,
+      "beat": 0.03197222222222251,
+      "targetBeat": null
+    },
+    {
+      "step": 93,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 5,
+      "beat": 0.36130555555556043,
+      "targetBeat": null
+    },
+    {
+      "step": 94,
+      "id": "pad-2-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 0.5333055555555575,
+      "targetBeat": 0.5
+    },
+    {
+      "step": 95,
+      "id": "pad-2-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 1.503972222222231,
+      "targetBeat": 1.5
+    },
+    {
+      "step": 96,
+      "id": "pad-2-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 2.526638888888897,
+      "targetBeat": 2.5
+    },
+    {
+      "step": 97,
+      "id": "pad-2-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 3.5406388888888927,
+      "targetBeat": 3.5
+    },
+    {
+      "step": 98,
+      "id": "pad-2-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 4.511305555555566,
+      "targetBeat": 4.5
+    },
+    {
+      "step": 99,
+      "id": "pad-2-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 5.525305555555562,
+      "targetBeat": 5.5
+    },
+    {
+      "step": 100,
+      "id": "pad-2-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 6.521972222222232,
+      "targetBeat": 6.5
+    },
+    {
+      "step": 101,
+      "id": "pad-2-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 7.518638888888901,
+      "targetBeat": 7.5
+    },
+    {
+      "step": 102,
+      "id": "pad-2-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 8.532638888888897,
+      "targetBeat": 8.5
+    },
+    {
+      "step": 103,
+      "id": "pad-2-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 9.503305555555556,
+      "targetBeat": 9.5
+    },
+    {
+      "step": 104,
+      "id": "pad-2-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 10.517305555555566,
+      "targetBeat": 10.5
+    },
+    {
+      "step": 105,
+      "id": "pad-2-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 11.522638888888892,
+      "targetBeat": 11.5
+    },
+    {
+      "step": 106,
+      "id": "pad-2-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 12.510638888888892,
+      "targetBeat": 12.5
+    },
+    {
+      "step": 107,
+      "id": "pad-2-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 13.524638888888902,
+      "targetBeat": 13.5
+    },
+    {
+      "step": 108,
+      "id": "pad-2-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 14.521305555555557,
+      "targetBeat": 14.5
+    },
+    {
+      "step": 109,
+      "id": "pad-2-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 6,
+      "beat": 15.509305555555557,
+      "targetBeat": 15.5
+    },
+    {
+      "step": 110,
+      "id": "lane3",
+      "x": 1387.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 7,
+      "beat": 0.020638888888896645,
+      "targetBeat": null
+    },
+    {
+      "step": 111,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 7,
+      "beat": 0.2546388888888913,
+      "targetBeat": null
+    },
+    {
+      "step": 112,
+      "id": "pad-3-0",
+      "x": 272.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 0.01063888888890574,
+      "targetBeat": 0
+    },
+    {
+      "step": 113,
+      "id": "pad-3-1",
+      "x": 757.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 0.5219722222222174,
+      "targetBeat": 0.5
+    },
+    {
+      "step": 114,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 1.0333055555555575,
+      "targetBeat": 1
+    },
+    {
+      "step": 115,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 1.5359722222222274,
+      "targetBeat": 1.5
+    },
+    {
+      "step": 116,
+      "id": "pad-3-5",
+      "x": 757.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 2.0473055555555675,
+      "targetBeat": 2
+    },
+    {
+      "step": 117,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 2.5066388888888866,
+      "targetBeat": 2.5
+    },
+    {
+      "step": 118,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 3.0179722222222267,
+      "targetBeat": 3
+    },
+    {
+      "step": 119,
+      "id": "pad-3-1",
+      "x": 757.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 3.529305555555567,
+      "targetBeat": 3.5
+    },
+    {
+      "step": 120,
+      "id": "pad-3-1",
+      "x": 757.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 4.031972222222237,
+      "targetBeat": 4
+    },
+    {
+      "step": 121,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 4.543305555555577,
+      "targetBeat": 4.5
+    },
+    {
+      "step": 122,
+      "id": "pad-3-5",
+      "x": 757.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 5.0546388888888885,
+      "targetBeat": 5
+    },
+    {
+      "step": 123,
+      "id": "pad-3-6",
+      "x": 1242.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 5.513972222222236,
+      "targetBeat": 5.5
+    },
+    {
+      "step": 124,
+      "id": "pad-3-5",
+      "x": 757.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 6.025305555555576,
+      "targetBeat": 6
+    },
+    {
+      "step": 125,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 6.527972222222218,
+      "targetBeat": 6.5
+    },
+    {
+      "step": 126,
+      "id": "pad-3-1",
+      "x": 757.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 7.039305555555558,
+      "targetBeat": 7
+    },
+    {
+      "step": 127,
+      "id": "pad-3-0",
+      "x": 272.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 7.550638888888898,
+      "targetBeat": 7.5
+    },
+    {
+      "step": 128,
+      "id": "pad-3-1",
+      "x": 757.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 8.009972222222217,
+      "targetBeat": 8
+    },
+    {
+      "step": 129,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 8.521305555555557,
+      "targetBeat": 8.5
+    },
+    {
+      "step": 130,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 9.023972222222227,
+      "targetBeat": 9
+    },
+    {
+      "step": 131,
+      "id": "pad-3-6",
+      "x": 1242.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 9.517972222222227,
+      "targetBeat": 9.5
+    },
+    {
+      "step": 132,
+      "id": "pad-3-7",
+      "x": 1727.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 10.08130555555556,
+      "targetBeat": 10
+    },
+    {
+      "step": 133,
+      "id": "pad-3-6",
+      "x": 1242.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 10.505972222222226,
+      "targetBeat": 10.5
+    },
+    {
+      "step": 134,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 11.017305555555566,
+      "targetBeat": 11
+    },
+    {
+      "step": 135,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 11.519972222222236,
+      "targetBeat": 11.5
+    },
+    {
+      "step": 136,
+      "id": "pad-3-2",
+      "x": 1242.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 12.031305555555576,
+      "targetBeat": 12
+    },
+    {
+      "step": 137,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 12.542638888888888,
+      "targetBeat": 12.5
+    },
+    {
+      "step": 138,
+      "id": "pad-3-6",
+      "x": 1242.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 13.001972222222236,
+      "targetBeat": 13
+    },
+    {
+      "step": 139,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 13.513305555555576,
+      "targetBeat": 13.5
+    },
+    {
+      "step": 140,
+      "id": "pad-3-2",
+      "x": 1242.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 14.015972222222217,
+      "targetBeat": 14
+    },
+    {
+      "step": 141,
+      "id": "pad-3-4",
+      "x": 272.5,
+      "y": 1013,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 14.527305555555557,
+      "targetBeat": 14.5
+    },
+    {
+      "step": 142,
+      "id": "pad-3-2",
+      "x": 1242.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 15.038638888888897,
+      "targetBeat": 15
+    },
+    {
+      "step": 143,
+      "id": "pad-3-3",
+      "x": 1727.5,
+      "y": 797.5,
+      "fraction": 0.5,
+      "cycle": 8,
+      "beat": 15.541305555555567,
+      "targetBeat": 15.5
+    },
+    {
+      "step": 144,
+      "id": "lane4",
+      "x": 1774.5,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 9,
+      "beat": 0.009305555555556566,
+      "targetBeat": null
+    },
+    {
+      "step": 145,
+      "id": "record",
+      "x": 594,
+      "y": 262,
+      "fraction": 0.5,
+      "cycle": 9,
+      "beat": 0.4253055555555534,
+      "targetBeat": null
+    },
+    {
+      "step": 146,
+      "id": "pad-4-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 0.09463888888890892,
+      "targetBeat": 0
+    },
+    {
+      "step": 147,
+      "id": "pad-4-0",
+      "x": 272.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 2.0359722222222274,
+      "targetBeat": 2
+    },
+    {
+      "step": 148,
+      "id": "pad-4-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 4.020638888888897,
+      "targetBeat": 4
+    },
+    {
+      "step": 149,
+      "id": "pad-4-1",
+      "x": 757.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 6.005305555555566,
+      "targetBeat": 6
+    },
+    {
+      "step": 150,
+      "id": "pad-4-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 8.041972222222228,
+      "targetBeat": 8
+    },
+    {
+      "step": 151,
+      "id": "pad-4-2",
+      "x": 1242.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 10.026638888888897,
+      "targetBeat": 10
+    },
+    {
+      "step": 152,
+      "id": "pad-4-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 12.019972222222236,
+      "targetBeat": 12
+    },
+    {
+      "step": 153,
+      "id": "pad-4-3",
+      "x": 1727.5,
+      "y": 905.5,
+      "fraction": 0.5,
+      "cycle": 10,
+      "beat": 14.004638888888906,
+      "targetBeat": 14
+    },
+    {
+      "step": 154,
+      "id": "tools",
+      "x": 1664,
+      "y": 111,
+      "fraction": 0.5,
+      "cycle": 11,
+      "beat": 0.04130555555556725,
+      "targetBeat": null
+    },
+    {
+      "step": 155,
+      "id": "save",
+      "x": 292,
+      "y": 744,
+      "fraction": 0.5,
+      "cycle": 11,
+      "beat": 0.26663888888890597,
+      "targetBeat": null
+    },
+    {
+      "step": 156,
+      "id": "export",
+      "x": 1236,
+      "y": 744,
+      "fraction": 0.5,
+      "cycle": 11,
+      "beat": 0.5006388888888864,
+      "targetBeat": null
+    },
+    {
+      "step": 157,
+      "id": "tools",
+      "x": 1664,
+      "y": 111,
+      "fraction": 0.5,
+      "cycle": 11,
+      "beat": 11.429305555555572,
+      "targetBeat": null
+    },
+    {
+      "step": 158,
+      "id": "lane0",
+      "x": 226,
+      "y": 498,
+      "fraction": 0.5,
+      "cycle": 11,
+      "beat": 11.689305555555563,
+      "targetBeat": null
+    }
+  ]
+}

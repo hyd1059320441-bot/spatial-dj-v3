@@ -1,0 +1,5095 @@
+{
+  "title": "霓虹弹跳",
+  "subtitle": "原创 Future Bounce",
+  "bpm": 128,
+  "bars": 4,
+  "master": 1.0,
+  "volumes": [
+    0.88,
+    0.7,
+    0.86,
+    0.76,
+    0.6
+  ],
+  "steps": [
+    {
+      "lane": 0,
+      "notes": [
+        {
+          "at": 0,
+          "pad": 0,
+          "velocity": 0.96
+        },
+        {
+          "at": 1,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 2,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 3,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 4,
+          "pad": 0,
+          "velocity": 0.96
+        },
+        {
+          "at": 5,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 6,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 7,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 8,
+          "pad": 0,
+          "velocity": 0.96
+        },
+        {
+          "at": 9,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 10,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 11,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 12,
+          "pad": 0,
+          "velocity": 0.96
+        },
+        {
+          "at": 13,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 14,
+          "pad": 0,
+          "velocity": 0.88
+        },
+        {
+          "at": 15,
+          "pad": 0,
+          "velocity": 0.88
+        }
+      ]
+    },
+    {
+      "lane": 0,
+      "notes": [
+        {
+          "at": 0.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 1.5,
+          "pad": 1,
+          "velocity": 0.72
+        },
+        {
+          "at": 2.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 3.5,
+          "pad": 2,
+          "velocity": 0.72
+        },
+        {
+          "at": 4.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 5.5,
+          "pad": 1,
+          "velocity": 0.72
+        },
+        {
+          "at": 6.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 7.5,
+          "pad": 2,
+          "velocity": 0.72
+        },
+        {
+          "at": 8.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 9.5,
+          "pad": 1,
+          "velocity": 0.72
+        },
+        {
+          "at": 10.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 11.5,
+          "pad": 2,
+          "velocity": 0.72
+        },
+        {
+          "at": 12.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 13.5,
+          "pad": 1,
+          "velocity": 0.72
+        },
+        {
+          "at": 14.5,
+          "pad": 1,
+          "velocity": 0.6
+        },
+        {
+          "at": 15.5,
+          "pad": 2,
+          "velocity": 0.72
+        },
+        {
+          "at": 3.75,
+          "pad": 1,
+          "velocity": 0.34
+        },
+        {
+          "at": 7.75,
+          "pad": 1,
+          "velocity": 0.34
+        },
+        {
+          "at": 11.75,
+          "pad": 1,
+          "velocity": 0.34
+        },
+        {
+          "at": 15.75,
+          "pad": 1,
+          "velocity": 0.34
+        }
+      ]
+    },
+    {
+      "lane": 1,
+      "notes": [
+        {
+          "at": 1,
+          "pad": 0,
+          "velocity": 0.82
+        },
+        {
+          "at": 3,
+          "pad": 0,
+          "velocity": 0.92
+        },
+        {
+          "at": 5,
+          "pad": 0,
+          "velocity": 0.82
+        },
+        {
+          "at": 7,
+          "pad": 0,
+          "velocity": 0.92
+        },
+        {
+          "at": 9,
+          "pad": 0,
+          "velocity": 0.82
+        },
+        {
+          "at": 11,
+          "pad": 0,
+          "velocity": 0.92
+        },
+        {
+          "at": 13,
+          "pad": 0,
+          "velocity": 0.82
+        },
+        {
+          "at": 15,
+          "pad": 0,
+          "velocity": 0.92
+        },
+        {
+          "at": 15.25,
+          "pad": 2,
+          "velocity": 0.38
+        },
+        {
+          "at": 15.75,
+          "pad": 1,
+          "velocity": 0.54
+        }
+      ]
+    },
+    {
+      "lane": 2,
+      "notes": [
+        {
+          "at": 0.5,
+          "pad": 0,
+          "velocity": 0.9
+        },
+        {
+          "at": 1.25,
+          "pad": 0,
+          "velocity": 0.72
+        },
+        {
+          "at": 1.75,
+          "pad": 0,
+          "velocity": 0.86
+        },
+        {
+          "at": 2.5,
+          "pad": 0,
+          "velocity": 0.92
+        },
+        {
+          "at": 3.25,
+          "pad": 0,
+          "velocity": 0.75
+        },
+        {
+          "at": 3.75,
+          "pad": 0,
+          "velocity": 0.83
+        },
+        {
+          "at": 4.5,
+          "pad": 4,
+          "velocity": 0.9
+        },
+        {
+          "at": 5.25,
+          "pad": 4,
+          "velocity": 0.72
+        },
+        {
+          "at": 5.75,
+          "pad": 4,
+          "velocity": 0.86
+        },
+        {
+          "at": 6.5,
+          "pad": 4,
+          "velocity": 0.92
+        },
+        {
+          "at": 7.25,
+          "pad": 4,
+          "velocity": 0.75
+        },
+        {
+          "at": 7.75,
+          "pad": 4,
+          "velocity": 0.83
+        },
+        {
+          "at": 8.5,
+          "pad": 1,
+          "velocity": 0.9
+        },
+        {
+          "at": 9.25,
+          "pad": 1,
+          "velocity": 0.72
+        },
+        {
+          "at": 9.75,
+          "pad": 1,
+          "velocity": 0.86
+        },
+        {
+          "at": 10.5,
+          "pad": 1,
+          "velocity": 0.92
+        },
+        {
+          "at": 11.25,
+          "pad": 1,
+          "velocity": 0.75
+        },
+        {
+          "at": 11.75,
+          "pad": 1,
+          "velocity": 0.83
+        },
+        {
+          "at": 12.5,
+          "pad": 5,
+          "velocity": 0.9
+        },
+        {
+          "at": 13.25,
+          "pad": 5,
+          "velocity": 0.72
+        },
+        {
+          "at": 13.75,
+          "pad": 5,
+          "velocity": 0.86
+        },
+        {
+          "at": 14.5,
+          "pad": 5,
+          "velocity": 0.92
+        },
+        {
+          "at": 15.25,
+          "pad": 5,
+          "velocity": 0.75
+        },
+        {
+          "at": 15.75,
+          "pad": 5,
+          "velocity": 0.83
+        }
+      ]
+    },
+    {
+      "lane": 3,
+      "notes": [
+        {
+          "at": 0.5,
+          "pad": 5,
+          "velocity": 0.9
+        },
+        {
+          "at": 1.25,
+          "pad": 3,
+          "velocity": 0.65
+        },
+        {
+          "at": 1.75,
+          "pad": 5,
+          "velocity": 0.78
+        },
+        {
+          "at": 2.5,
+          "pad": 6,
+          "velocity": 0.94
+        },
+        {
+          "at": 3.25,
+          "pad": 5,
+          "velocity": 0.72
+        },
+        {
+          "at": 3.75,
+          "pad": 3,
+          "velocity": 0.8
+        },
+        {
+          "at": 4.5,
+          "pad": 3,
+          "velocity": 0.9
+        },
+        {
+          "at": 5.25,
+          "pad": 1,
+          "velocity": 0.65
+        },
+        {
+          "at": 5.75,
+          "pad": 3,
+          "velocity": 0.78
+        },
+        {
+          "at": 6.5,
+          "pad": 5,
+          "velocity": 0.94
+        },
+        {
+          "at": 7.25,
+          "pad": 6,
+          "velocity": 0.72
+        },
+        {
+          "at": 7.75,
+          "pad": 5,
+          "velocity": 0.8
+        },
+        {
+          "at": 8.5,
+          "pad": 6,
+          "velocity": 0.9
+        },
+        {
+          "at": 9.25,
+          "pad": 4,
+          "velocity": 0.65
+        },
+        {
+          "at": 9.75,
+          "pad": 3,
+          "velocity": 0.78
+        },
+        {
+          "at": 10.5,
+          "pad": 4,
+          "velocity": 0.94
+        },
+        {
+          "at": 11.25,
+          "pad": 6,
+          "velocity": 0.72
+        },
+        {
+          "at": 11.75,
+          "pad": 7,
+          "velocity": 0.8
+        },
+        {
+          "at": 12.5,
+          "pad": 4,
+          "velocity": 0.9
+        },
+        {
+          "at": 13.25,
+          "pad": 2,
+          "velocity": 0.65
+        },
+        {
+          "at": 13.75,
+          "pad": 4,
+          "velocity": 0.78
+        },
+        {
+          "at": 14.5,
+          "pad": 5,
+          "velocity": 0.94
+        },
+        {
+          "at": 15.25,
+          "pad": 4,
+          "velocity": 0.72
+        },
+        {
+          "at": 15.75,
+          "pad": 3,
+          "velocity": 0.8
+        }
+      ]
+    },
+    {
+      "lane": 4,
+      "notes": [
+        {
+          "at": 0.5,
+          "pad": 0,
+          "velocity": 0.65
+        },
+        {
+          "at": 2.5,
+          "pad": 0,
+          "velocity": 0.65
+        },
+        {
+          "at": 3.75,
+          "pad": 0,
+          "velocity": 0.48
+        },
+        {
+          "at": 4.5,
+          "pad": 1,
+          "velocity": 0.65
+        },
+        {
+          "at": 6.5,
+          "pad": 1,
+          "velocity": 0.65
+        },
+        {
+          "at": 7.75,
+          "pad": 1,
+          "velocity": 0.48
+        },
+        {
+          "at": 8.5,
+          "pad": 2,
+          "velocity": 0.65
+        },
+        {
+          "at": 10.5,
+          "pad": 2,
+          "velocity": 0.65
+        },
+        {
+          "at": 11.75,
+          "pad": 2,
+          "velocity": 0.48
+        },
+        {
+          "at": 12.5,
+          "pad": 3,
+          "velocity": 0.65
+        },
+        {
+          "at": 14.5,
+          "pad": 3,
+          "velocity": 0.65
+        },
+        {
+          "at": 15.75,
+          "pad": 3,
+          "velocity": 0.48
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Drop 1 · A",
+      "part": "Drop",
+      "loops": 1,
+      "gains": [
+        1,
+        1,
+        1,
+        1,
+        0.85
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 0,
+            "pad": 4,
+            "velocity": 0.8
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 4,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          },
+          {
+            "at": 12.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 13.75,
+            "pad": 4,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 15.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.8
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Drop 1 · B",
+      "part": "Drop",
+      "loops": 1,
+      "gains": [
+        1,
+        1,
+        1,
+        1,
+        0.85
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.55
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 14.75,
+            "pad": 1,
+            "velocity": 0.4
+          },
+          {
+            "at": 15.25,
+            "pad": 1,
+            "velocity": 0.5
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 5,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 3,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 7,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 7,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          },
+          {
+            "at": 12.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.65
+          },
+          {
+            "at": 13.75,
+            "pad": 4,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.42
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Breakdown · A",
+      "part": "Breakdown",
+      "loops": 1,
+      "gains": [
+        0,
+        0,
+        0,
+        0.65,
+        1
+      ],
+      "lanes": [
+        [],
+        [],
+        [],
+        [
+          {
+            "at": 0,
+            "pad": 5,
+            "velocity": 0.48
+          },
+          {
+            "at": 1.5,
+            "pad": 5,
+            "velocity": 0.48
+          },
+          {
+            "at": 3,
+            "pad": 5,
+            "velocity": 0.48
+          },
+          {
+            "at": 4,
+            "pad": 3,
+            "velocity": 0.48
+          },
+          {
+            "at": 5.5,
+            "pad": 3,
+            "velocity": 0.48
+          },
+          {
+            "at": 7,
+            "pad": 3,
+            "velocity": 0.48
+          },
+          {
+            "at": 8,
+            "pad": 6,
+            "velocity": 0.48
+          },
+          {
+            "at": 9.5,
+            "pad": 6,
+            "velocity": 0.48
+          },
+          {
+            "at": 11,
+            "pad": 6,
+            "velocity": 0.48
+          },
+          {
+            "at": 12,
+            "pad": 4,
+            "velocity": 0.48
+          },
+          {
+            "at": 13.5,
+            "pad": 4,
+            "velocity": 0.48
+          },
+          {
+            "at": 15,
+            "pad": 4,
+            "velocity": 0.48
+          }
+        ],
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 4,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 8,
+            "pad": 2,
+            "velocity": 0.75
+          },
+          {
+            "at": 12,
+            "pad": 3,
+            "velocity": 0.75
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Breakdown · B",
+      "part": "Breakdown",
+      "loops": 1,
+      "gains": [
+        0,
+        0,
+        0,
+        0.8,
+        1
+      ],
+      "lanes": [
+        [],
+        [],
+        [],
+        [
+          {
+            "at": 0,
+            "pad": 5,
+            "velocity": 0.48
+          },
+          {
+            "at": 1.5,
+            "pad": 5,
+            "velocity": 0.48
+          },
+          {
+            "at": 3,
+            "pad": 5,
+            "velocity": 0.48
+          },
+          {
+            "at": 4,
+            "pad": 3,
+            "velocity": 0.48
+          },
+          {
+            "at": 5.5,
+            "pad": 3,
+            "velocity": 0.48
+          },
+          {
+            "at": 7,
+            "pad": 3,
+            "velocity": 0.48
+          },
+          {
+            "at": 8,
+            "pad": 6,
+            "velocity": 0.48
+          },
+          {
+            "at": 9.5,
+            "pad": 6,
+            "velocity": 0.48
+          },
+          {
+            "at": 11,
+            "pad": 6,
+            "velocity": 0.48
+          },
+          {
+            "at": 12,
+            "pad": 4,
+            "velocity": 0.48
+          },
+          {
+            "at": 13.5,
+            "pad": 4,
+            "velocity": 0.48
+          },
+          {
+            "at": 15,
+            "pad": 4,
+            "velocity": 0.48
+          }
+        ],
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 4,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 8,
+            "pad": 2,
+            "velocity": 0.75
+          },
+          {
+            "at": 12,
+            "pad": 3,
+            "velocity": 0.75
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Build-up",
+      "part": "BuildUp",
+      "loops": 1,
+      "gains": [
+        0.5,
+        0.85,
+        0.7,
+        0.8,
+        0.7
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 8,
+            "pad": 5,
+            "velocity": 0.9
+          }
+        ],
+        [
+          {
+            "at": 0.0,
+            "pad": 1,
+            "velocity": 0.36
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.385
+          },
+          {
+            "at": 1.0,
+            "pad": 1,
+            "velocity": 0.41
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.435
+          },
+          {
+            "at": 2.0,
+            "pad": 1,
+            "velocity": 0.45999999999999996
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.485
+          },
+          {
+            "at": 3.0,
+            "pad": 1,
+            "velocity": 0.51
+          },
+          {
+            "at": 3.5,
+            "pad": 1,
+            "velocity": 0.535
+          },
+          {
+            "at": 4.0,
+            "pad": 1,
+            "velocity": 0.56
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.585
+          },
+          {
+            "at": 5.0,
+            "pad": 1,
+            "velocity": 0.61
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.635
+          },
+          {
+            "at": 6.0,
+            "pad": 1,
+            "velocity": 0.66
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.685
+          },
+          {
+            "at": 7.0,
+            "pad": 1,
+            "velocity": 0.71
+          },
+          {
+            "at": 7.5,
+            "pad": 1,
+            "velocity": 0.735
+          },
+          {
+            "at": 8.0,
+            "pad": 1,
+            "velocity": 0.76
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.785
+          },
+          {
+            "at": 9.0,
+            "pad": 1,
+            "velocity": 0.81
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.835
+          },
+          {
+            "at": 10.0,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.885
+          },
+          {
+            "at": 11.0,
+            "pad": 1,
+            "velocity": 0.91
+          },
+          {
+            "at": 11.5,
+            "pad": 1,
+            "velocity": 0.935
+          },
+          {
+            "at": 12.0,
+            "pad": 1,
+            "velocity": 0.5
+          },
+          {
+            "at": 12.25,
+            "pad": 1,
+            "velocity": 0.535
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.5700000000000001
+          },
+          {
+            "at": 12.75,
+            "pad": 1,
+            "velocity": 0.605
+          },
+          {
+            "at": 13.0,
+            "pad": 1,
+            "velocity": 0.64
+          },
+          {
+            "at": 13.25,
+            "pad": 1,
+            "velocity": 0.675
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.71
+          },
+          {
+            "at": 13.75,
+            "pad": 1,
+            "velocity": 0.745
+          },
+          {
+            "at": 14.0,
+            "pad": 1,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.25,
+            "pad": 1,
+            "velocity": 0.8150000000000001
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.8500000000000001
+          },
+          {
+            "at": 14.75,
+            "pad": 1,
+            "velocity": 0.885
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 4,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Drop 2 · A",
+      "part": "Drop",
+      "loops": 1,
+      "gains": [
+        1,
+        1,
+        1,
+        1,
+        0.9
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.55
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 14.75,
+            "pad": 1,
+            "velocity": 0.4
+          },
+          {
+            "at": 15.25,
+            "pad": 1,
+            "velocity": 0.5
+          },
+          {
+            "at": 0,
+            "pad": 4,
+            "velocity": 0.8
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 5,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 3,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 7,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 7,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          },
+          {
+            "at": 12.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.65
+          },
+          {
+            "at": 13.75,
+            "pad": 4,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.42
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Drop 2 · B",
+      "part": "Drop",
+      "loops": 1,
+      "gains": [
+        1,
+        1,
+        1,
+        0.92,
+        0.9
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 4,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          },
+          {
+            "at": 12.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 13.75,
+            "pad": 4,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 15.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.8
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Drop 2 · C",
+      "part": "Drop",
+      "loops": 1,
+      "gains": [
+        1,
+        1,
+        1,
+        1,
+        0.9
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.55
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 14.75,
+            "pad": 1,
+            "velocity": 0.4
+          },
+          {
+            "at": 15.25,
+            "pad": 1,
+            "velocity": 0.5
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 5,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 3,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 7,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 7,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          },
+          {
+            "at": 12.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.65
+          },
+          {
+            "at": 13.75,
+            "pad": 4,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.42
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Drop 2 · D",
+      "part": "Drop",
+      "loops": 1,
+      "gains": [
+        1,
+        1,
+        1,
+        0.92,
+        0.9
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 1.75,
+            "pad": 5,
+            "velocity": 0.78
+          },
+          {
+            "at": 2.5,
+            "pad": 6,
+            "velocity": 0.94
+          },
+          {
+            "at": 3.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 3,
+            "velocity": 0.8
+          },
+          {
+            "at": 4.5,
+            "pad": 3,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 5.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 6.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 7.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 7.75,
+            "pad": 5,
+            "velocity": 0.8
+          },
+          {
+            "at": 8.5,
+            "pad": 6,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 4,
+            "velocity": 0.65
+          },
+          {
+            "at": 9.75,
+            "pad": 3,
+            "velocity": 0.78
+          },
+          {
+            "at": 10.5,
+            "pad": 4,
+            "velocity": 0.94
+          },
+          {
+            "at": 11.25,
+            "pad": 6,
+            "velocity": 0.72
+          },
+          {
+            "at": 11.75,
+            "pad": 7,
+            "velocity": 0.8
+          },
+          {
+            "at": 12.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 13.75,
+            "pad": 4,
+            "velocity": 0.78
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.94
+          },
+          {
+            "at": 15.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.8
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.65
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.48
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.65
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.48
+          },
+          {
+            "at": 8.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 10.5,
+            "pad": 2,
+            "velocity": 0.65
+          },
+          {
+            "at": 11.75,
+            "pad": 2,
+            "velocity": 0.48
+          },
+          {
+            "at": 12.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 14.5,
+            "pad": 3,
+            "velocity": 0.65
+          },
+          {
+            "at": 15.75,
+            "pad": 3,
+            "velocity": 0.48
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Outro",
+      "part": "Outro",
+      "loops": 1,
+      "gains": [
+        1,
+        0.8,
+        0.8,
+        0,
+        0
+      ],
+      "lanes": [
+        [
+          {
+            "at": 0,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 2,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 4,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 6,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 8,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 10,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 12,
+            "pad": 0,
+            "velocity": 0.96
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 14,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.88
+          },
+          {
+            "at": 0.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 1.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 2.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 3.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 4.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 5.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 6.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 7.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 9.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 11.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 12.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 13.5,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 14.5,
+            "pad": 1,
+            "velocity": 0.6
+          },
+          {
+            "at": 15.5,
+            "pad": 2,
+            "velocity": 0.72
+          },
+          {
+            "at": 3.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 7.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.34
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.34
+          }
+        ],
+        [
+          {
+            "at": 1,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 3,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 5,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 7,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 9,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 11,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 13,
+            "pad": 0,
+            "velocity": 0.82
+          },
+          {
+            "at": 15,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 2,
+            "velocity": 0.38
+          },
+          {
+            "at": 15.75,
+            "pad": 1,
+            "velocity": 0.54
+          }
+        ],
+        [
+          {
+            "at": 0.5,
+            "pad": 0,
+            "velocity": 0.9
+          },
+          {
+            "at": 1.25,
+            "pad": 0,
+            "velocity": 0.72
+          },
+          {
+            "at": 1.75,
+            "pad": 0,
+            "velocity": 0.86
+          },
+          {
+            "at": 2.5,
+            "pad": 0,
+            "velocity": 0.92
+          },
+          {
+            "at": 3.25,
+            "pad": 0,
+            "velocity": 0.75
+          },
+          {
+            "at": 3.75,
+            "pad": 0,
+            "velocity": 0.83
+          },
+          {
+            "at": 4.5,
+            "pad": 4,
+            "velocity": 0.9
+          },
+          {
+            "at": 5.25,
+            "pad": 4,
+            "velocity": 0.72
+          },
+          {
+            "at": 5.75,
+            "pad": 4,
+            "velocity": 0.86
+          },
+          {
+            "at": 6.5,
+            "pad": 4,
+            "velocity": 0.92
+          },
+          {
+            "at": 7.25,
+            "pad": 4,
+            "velocity": 0.75
+          },
+          {
+            "at": 7.75,
+            "pad": 4,
+            "velocity": 0.83
+          },
+          {
+            "at": 8.5,
+            "pad": 1,
+            "velocity": 0.9
+          },
+          {
+            "at": 9.25,
+            "pad": 1,
+            "velocity": 0.72
+          },
+          {
+            "at": 9.75,
+            "pad": 1,
+            "velocity": 0.86
+          },
+          {
+            "at": 10.5,
+            "pad": 1,
+            "velocity": 0.92
+          },
+          {
+            "at": 11.25,
+            "pad": 1,
+            "velocity": 0.75
+          },
+          {
+            "at": 11.75,
+            "pad": 1,
+            "velocity": 0.83
+          },
+          {
+            "at": 12.5,
+            "pad": 5,
+            "velocity": 0.9
+          },
+          {
+            "at": 13.25,
+            "pad": 5,
+            "velocity": 0.72
+          },
+          {
+            "at": 13.75,
+            "pad": 5,
+            "velocity": 0.86
+          },
+          {
+            "at": 14.5,
+            "pad": 5,
+            "velocity": 0.92
+          },
+          {
+            "at": 15.25,
+            "pad": 5,
+            "velocity": 0.75
+          },
+          {
+            "at": 15.75,
+            "pad": 5,
+            "velocity": 0.83
+          }
+        ],
+        [],
+        []
+      ]
+    }
+  ]
+}

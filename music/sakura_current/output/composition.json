@@ -1,0 +1,63 @@
+{
+  "title": "樱花电流 / Sakura Current",
+  "bpm": 128,
+  "key": "A minor",
+  "sample_rate": 48000,
+  "channels": 2,
+  "duration_seconds": 122.0,
+  "events": 1856,
+  "peak_dbfs": -1.5,
+  "rms_dbfs": -14.26,
+  "sections": [
+    {
+      "name": "Intro",
+      "bar_start": 1,
+      "bars": 8,
+      "seconds": 0.0
+    },
+    {
+      "name": "Groove",
+      "bar_start": 9,
+      "bars": 8,
+      "seconds": 15.0
+    },
+    {
+      "name": "Build",
+      "bar_start": 17,
+      "bars": 8,
+      "seconds": 30.0
+    },
+    {
+      "name": "Drop",
+      "bar_start": 25,
+      "bars": 16,
+      "seconds": 45.0
+    },
+    {
+      "name": "Break",
+      "bar_start": 41,
+      "bars": 8,
+      "seconds": 75.0
+    },
+    {
+      "name": "Final drop",
+      "bar_start": 49,
+      "bars": 12,
+      "seconds": 90.0
+    },
+    {
+      "name": "Outro",
+      "bar_start": 61,
+      "bars": 4,
+      "seconds": 112.5
+    }
+  ],
+  "loop_lane_events": [
+    56,
+    8,
+    20,
+    26,
+    12
+  ],
+  "loop_note": "4-bar five-track arrangement for Spatial Loop's existing sound bank"
+}

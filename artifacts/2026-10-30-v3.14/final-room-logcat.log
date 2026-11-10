@@ -1,0 +1,34 @@
+--------- beginning of main
+10-30 17:42:17.106 12723 13122 I PxrMetric: FPS=72/72,MTP=38.60ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.06ms,FrmGpu=11.34ms,FrmTime=17.27ms,ATWGPU=1.50ms,VsyncDelay=2,GPU=37%/726Mhz,GPUTemp=57.5C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=109452,Skip=0
+10-30 17:42:17.478 17173 17173 I SpatialLoopTest: Probe type=LoopViewModel objects=0
+10-30 17:42:18.080 17173 17173 I SpatialLoop: PanelReady meters=0.79999995,0.56 bodyBehind=.043 fingertipOnly=true tilt=-60
+10-30 17:42:18.116 12723 13122 I PxrMetric: FPS=72/75,MTP=38.21ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.03ms,FrmGpu=7.43ms,FrmTime=13.24ms,ATWGPU=1.42ms,VsyncDelay=1,GPU=36%/726Mhz,GPUTemp=74.9C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=109525,Skip=0
+10-30 17:42:18.628 17173 17173 I SpatialLoop: ClubReady room=6.8x7.2x2.85 dancers=4 female=2 styles=4 beatOffsets=0 lights=4 directionalFills=2 movingSpots=2 shafts=2 fillLux=800.0 sideFillLux=800.0 ambientEV=4.0 skin=white neutralSpots=true spotMode=danceFloorSweep entrance=true PAstacks=2 shadows=0
+10-30 17:42:18.757 17173 17173 I SpatialLoop: SceneReady style=nightClub room=true dancers=4 female=2 lights=3 monitors=0 ornaments=2 audioSources=roomPA panelCount=1 markers=2 indexOnly=true
+10-30 17:42:18.981 17173 17173 I SpatialLoop: AudioBuffer frames=1536 capacity=3844 mode=0 rate=48000
+10-30 17:42:18.981 17173 17173 I SpatialLoop: AudioBuffer frames=1536 capacity=3844 mode=0 rate=48000
+10-30 17:42:18.992 17173 17173 I SpatialLoop: AudioReady sampleRate=48000 frames=192 output=左右空间音箱
+10-30 17:42:19.017 17173 17173 I SpatialLoop: HandsReady result=SUCCESS input=IndexContact source=listener update=ECS predictionMaxMs=18 predictionMaxMeters=.012
+10-30 17:42:19.120 12723 13122 I PxrMetric: FPS=72/85,MTP=30.65ms,AppSW=off,FrmEarly=3,FrmLate=0,FrmCpu=2.05ms,FrmGpu=14.34ms,FrmTime=25.29ms,ATWGPU=0.92ms,VsyncDelay=2,GPU=34%/726Mhz,GPUTemp=60.6C,LayerCnt=1,Stuck=1,Pkg=com.pico.spatial.runtime,FrmId=109600,Skip=0
+10-30 17:42:19.377 17173 17173 I SpatialLoop: ControlsReady count=26 pixels=2000.0,1400.0 outside=[]
+10-30 17:42:20.026 17173 17173 I SpatialLoop: ControlsReady count=22 pixels=2000.0,1400.0 outside=[]
+10-30 17:42:20.129 12723 13122 I PxrMetric: FPS=75/90,MTP=29.42ms,AppSW=off,FrmEarly=0,FrmLate=14,FrmCpu=1.73ms,FrmGpu=12.28ms,FrmTime=18.87ms,ATWGPU=0.79ms,VsyncDelay=2,GPU=60%/902Mhz,GPUTemp=63.7C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=109688,Skip=0
+10-30 17:42:21.136 12723 13122 I PxrMetric: FPS=87/90,MTP=21.25ms,AppSW=off,FrmEarly=0,FrmLate=62,FrmCpu=1.78ms,FrmGpu=21.68ms,FrmTime=35.31ms,ATWGPU=1.41ms,VsyncDelay=2,GPU=89%/902Mhz,GPUTemp=62.5C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=109775,Skip=0
+10-30 17:42:22.139 12723 13122 I PxrMetric: FPS=86/90,MTP=28.65ms,AppSW=off,FrmEarly=0,FrmLate=96,FrmCpu=1.64ms,FrmGpu=21.54ms,FrmTime=34.81ms,ATWGPU=1.34ms,VsyncDelay=2,GPU=99%/902Mhz,GPUTemp=67.9C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=109860,Skip=0
+10-30 17:42:23.140 12723 13122 I PxrMetric: FPS=85/90,MTP=27.98ms,AppSW=off,FrmEarly=0,FrmLate=96,FrmCpu=1.64ms,FrmGpu=21.65ms,FrmTime=35.00ms,ATWGPU=1.31ms,VsyncDelay=2,GPU=99%/902Mhz,GPUTemp=64.8C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=109945,Skip=0
+10-30 17:42:24.150 12723 13122 I PxrMetric: FPS=85/90,MTP=28.65ms,AppSW=off,FrmEarly=0,FrmLate=72,FrmCpu=1.82ms,FrmGpu=21.20ms,FrmTime=33.94ms,ATWGPU=1.54ms,VsyncDelay=2,GPU=96%/902Mhz,GPUTemp=63.7C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=110033,Skip=0
+10-30 17:42:25.155 12723 13122 I PxrMetric: FPS=87/90,MTP=36.97ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.61ms,FrmGpu=19.05ms,FrmTime=29.65ms,ATWGPU=1.54ms,VsyncDelay=2,GPU=96%/902Mhz,GPUTemp=63.7C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=110121,Skip=0
+10-30 17:42:25.815 17173 17173 I SpatialLoop: ClubDisposed frames=421
+10-30 17:42:25.823 17173 17173 I SpatialLoop: SceneDisposed
+10-30 17:42:26.049 17173 17173 I SpatialLoopTest: Probe type=LoopScene objects=1152
+10-30 17:42:26.156 12723 13122 I PxrMetric: FPS=88/90,MTP=32.97ms,AppSW=off,FrmEarly=0,FrmLate=93,FrmCpu=1.42ms,FrmGpu=9.08ms,FrmTime=13.73ms,ATWGPU=1.39ms,VsyncDelay=2,GPU=98%/902Mhz,GPUTemp=71.4C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=110211,Skip=0
+10-30 17:42:26.206 17173 17173 I SpatialLoop: PanelReady meters=0.79999995,0.56 bodyBehind=.043 fingertipOnly=true tilt=-60
+10-30 17:42:26.428 17173 17173 I SpatialLoop: ClubReady room=6.8x7.2x2.85 dancers=4 female=2 styles=4 beatOffsets=0 lights=4 directionalFills=2 movingSpots=2 shafts=2 fillLux=800.0 sideFillLux=800.0 ambientEV=4.0 skin=white neutralSpots=true spotMode=danceFloorSweep entrance=true PAstacks=2 shadows=0
+10-30 17:42:26.540 17173 17173 I SpatialLoop: SceneReady style=nightClub room=true dancers=4 female=2 lights=3 monitors=0 ornaments=2 audioSources=roomPA panelCount=1 markers=2 indexOnly=true
+10-30 17:42:26.717 17173 17173 I SpatialLoop: AudioBuffer frames=1536 capacity=3844 mode=0 rate=48000
+10-30 17:42:26.717 17173 17173 I SpatialLoop: AudioBuffer frames=1536 capacity=3844 mode=0 rate=48000
+10-30 17:42:26.725 17173 17173 I SpatialLoop: AudioReady sampleRate=48000 frames=192 output=左右空间音箱
+10-30 17:42:26.737 17173 17173 I SpatialLoop: HandsReady result=SUCCESS input=IndexContact source=listener update=ECS predictionMaxMs=18 predictionMaxMeters=.012
+10-30 17:42:26.848 17173 17173 I SpatialLoop: ControlsReady count=26 pixels=2000.0,1400.0 outside=[]
+10-30 17:42:26.901 17173 17194 I SpatialLoopTest: ClubRoomPASS enclosure=6 full=true dancers=4 moving=24 lights=4 sharedSweeps=true height=1.10 roomPA=true ornamentsClear=true ik/floor/disposal/reopen=true
+10-30 17:42:27.164 12723 13122 I PxrMetric: FPS=90/90,MTP=32.51ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.32ms,FrmGpu=3.93ms,FrmTime=8.93ms,ATWGPU=1.17ms,VsyncDelay=1,GPU=36%/902Mhz,GPUTemp=75.7C,LayerCnt=1,Stuck=0,Pkg=com.pico.spatial.runtime,FrmId=110299,Skip=0

@@ -1,0 +1,170 @@
+{
+  "ok": true,
+  "notes": 106,
+  "counts": [
+    36,
+    10,
+    24,
+    24,
+    12
+  ],
+  "sectionsObserved": [
+    "Drop 1 · A",
+    "Drop 1 · B",
+    "Breakdown · A",
+    "Breakdown · B",
+    "Build-up",
+    "Drop 2 · A",
+    "Drop 2 · B",
+    "Drop 2 · C",
+    "Drop 2 · D",
+    "Outro"
+  ],
+  "fullModeThroughout": true,
+  "liveSectionCountsAndLabels": true,
+  "states": [
+    {
+      "step": 1,
+      "lane": 0,
+      "texts": 44,
+      "part": "Drop",
+      "mode": "FullSong"
+    },
+    {
+      "step": 2,
+      "lane": 0,
+      "texts": 44,
+      "part": "Drop",
+      "mode": "FullSong"
+    },
+    {
+      "step": 3,
+      "lane": 1,
+      "texts": 40,
+      "part": "Drop",
+      "mode": "FullSong"
+    },
+    {
+      "step": 4,
+      "lane": 2,
+      "texts": 44,
+      "part": "Drop",
+      "mode": "FullSong"
+    },
+    {
+      "step": 5,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "mode": "FullSong"
+    },
+    {
+      "step": 6,
+      "lane": 4,
+      "texts": 40,
+      "part": "Drop",
+      "mode": "FullSong"
+    },
+    {
+      "step": 8,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "section": "Drop 1 · A",
+      "mode": "FullSong"
+    },
+    {
+      "step": 9,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "section": "Drop 1 · B",
+      "mode": "FullSong"
+    },
+    {
+      "step": 10,
+      "lane": 3,
+      "texts": 48,
+      "part": "Breakdown",
+      "section": "Breakdown · A",
+      "mode": "FullSong"
+    },
+    {
+      "step": 11,
+      "lane": 3,
+      "texts": 48,
+      "part": "Breakdown",
+      "section": "Breakdown · B",
+      "mode": "FullSong"
+    },
+    {
+      "step": 12,
+      "lane": 3,
+      "texts": 48,
+      "part": "BuildUp",
+      "section": "Build-up",
+      "mode": "FullSong"
+    },
+    {
+      "step": 13,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "section": "Drop 2 · A",
+      "mode": "FullSong"
+    },
+    {
+      "step": 14,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "section": "Drop 2 · B",
+      "mode": "FullSong"
+    },
+    {
+      "step": 15,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "section": "Drop 2 · C",
+      "mode": "FullSong"
+    },
+    {
+      "step": 16,
+      "lane": 3,
+      "texts": 48,
+      "part": "Drop",
+      "section": "Drop 2 · D",
+      "mode": "FullSong"
+    },
+    {
+      "step": 17,
+      "lane": 0,
+      "texts": 44,
+      "part": "Outro",
+      "section": "Outro",
+      "mode": "FullSong"
+    },
+    {
+      "step": 7,
+      "lane": 3,
+      "texts": 37,
+      "part": "Drop",
+      "section": "Drop 1 · A",
+      "mode": "FullSong"
+    }
+  ],
+  "fingertipVerification": "deferred by user",
+  "sounding": 200,
+  "audioBufferFrames": [
+    1536,
+    1536
+  ],
+  "playbackUnderrunsAdded": [
+    0,
+    0
+  ],
+  "liveTrackingIsolatedDuringInjectedContacts": true,
+  "cancellationAndBackgroundRestore": true,
+  "savedMusicPreserved": true
+}

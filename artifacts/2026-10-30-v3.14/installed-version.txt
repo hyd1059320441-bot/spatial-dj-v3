@@ -1,0 +1,2 @@
+versionCode=44 minSdk=35 targetSdk=35
+versionName=3.14

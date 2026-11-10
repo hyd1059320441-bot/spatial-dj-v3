@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spatialdj.p170bd28c.ClubLightingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-30T09:36:06.545Z" hostname="JXT3V7YG4D" time="0.005">
+  <properties/>
+  <testcase name="sharedSpotsSweepBothRowsAndSidesWithoutLeavingDanceFloorOrLightReach" classname="com.example.spatialdj.p170bd28c.ClubLightingTest" time="0.004"/>
+  <testcase name="opposingSweepsAreContinuousPeriodicAndRemainActiveAtIdle" classname="com.example.spatialdj.p170bd28c.ClubLightingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

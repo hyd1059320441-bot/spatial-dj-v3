@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spatialdj.p170bd28c.FingertipGateTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2026-10-30T09:36:06.634Z" hostname="JXT3V7YG4D" time="0.011">
+  <properties/>
+  <testcase name="twoFingersCannotFightOverSameSlider" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.005"/>
+  <testcase name="undersideCannotStrikeOnAppearanceOrOutwardCrossing" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="trackingLossCancelsPermissionToRearmAnotherButtonShallowly" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="undersideExitCannotUseShallowLateralRearm" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.001"/>
+  <testcase name="onlyTwoIndexFingersCanStrikeAndHover" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="invalidTipsUnmeasuredPanelAndInactiveInputAreIgnored" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="fastCrossingBetweenFramesStrikesOnceAndReleases" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="staleTrackingCannotHoldOrSweep" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="trackingTeleportCannotBecomeASweptTap" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="indexRetractsOnlyTwoCentimetersToRepeatWithoutCooldown" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.001"/>
+  <testcase name="missingTrackingReleasesAndRequiresRetractionOnReturn" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="shallowLiftAfterPageResetCanReachAnotherNavigationButton" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="sliderClampsButCannotJumpToAnotherRow" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="sameButtonStillNeedsFullLiftAcrossPageReset" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="offPanelFingerAndPalmDoNotCreateAControlHit" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="sweptContactUsesIntersectionNotFinalFingerPosition" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="approachIsCyanButDoesNotStrikeFromDistance" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="oneFingerCannotActivateTwoOverlappingSurfaces" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="shallowLiftRearmsDifferentButtonWithoutFullRetraction" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="lateralSlideAtContactDepthDoesNotPlayEveryCrossedPad" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="sliderSetsPositionOnContactAndMovesWithoutPinch" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="rapidLiftAndRetapWorkWithoutAWaitTimer" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.002"/>
+  <testcase name="directContactNeedsNoNativePointerOrPinch" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="sliderInsetsUseActualPixelDensity" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="removedOrMovedSurfaceReleasesWithoutActivatingReplacement" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="pauseAndTabResetRequireLiftBeforeAnotherStrike" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="heldFingerNeverRetriggersAndHysteresisRejectsJitter" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <testcase name="pageResetKeepsRetractedSecondHandReadyForToolsWithoutAnotherLift" classname="com.example.spatialdj.p170bd28c.FingertipGateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

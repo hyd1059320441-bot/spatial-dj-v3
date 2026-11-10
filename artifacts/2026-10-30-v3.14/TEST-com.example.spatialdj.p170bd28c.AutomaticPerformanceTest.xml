@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-30T09:36:06.436Z" hostname="JXT3V7YG4D" time="0.107">
+  <properties/>
+  <testcase name="automationTimingAndPcmDoNotDependOnRenderBatchSize" classname="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" time="0.032"/>
+  <testcase name="playingPartsAndCountsFollowClipsAcrossRepeatedLoopsWithoutMutatingRecordedProject" classname="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" time="0.031"/>
+  <testcase name="malformedScoreCannotReplaceCurrentSession" classname="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" time="0.005"/>
+  <testcase name="stopAndRestoreCancelEveryPendingAutomaticStrike" classname="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" time="0.006"/>
+  <testcase name="sixStepsActuallyRecordAndOverdubBeforeContinuousPlayback" classname="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" time="0.018"/>
+  <testcase name="clipPartMetadataDefaultsForOldScoresAndRejectsUnknownParts" classname="com.example.spatialdj.p170bd28c.AutomaticPerformanceTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

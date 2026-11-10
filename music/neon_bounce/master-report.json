@@ -1,0 +1,15 @@
+{
+  "rate": 48000,
+  "channels": 2,
+  "durationSeconds": 75.0,
+  "frames": 3600000,
+  "samplePeakDbFS": -1.4246665978019648,
+  "rmsDbFS": -16.96605305940826,
+  "stereoCorrelation": 0.9527377362994642,
+  "clippedSamples": 0,
+  "dcOffset": [
+    5.620525783962673e-05,
+    3.1963246663411456e-05
+  ],
+  "source": "production LoopEngine and original bundled SoundBank; no added mastering"
+}

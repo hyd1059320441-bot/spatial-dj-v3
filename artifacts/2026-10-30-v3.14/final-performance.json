@@ -1,0 +1,929 @@
+{
+  "source": "final-automatic-logcat.log; real PxrMetric, AutomaticStarted to AutomaticPASS",
+  "summary": {
+    "fps": {
+      "min": 72,
+      "median": 72.0,
+      "max": 92
+    },
+    "gpuMs": {
+      "min": 11.48,
+      "median": 11.8,
+      "max": 21.22
+    },
+    "gpuPercent": {
+      "min": 77,
+      "median": 82.0,
+      "max": 99
+    },
+    "samples": 128,
+    "refreshRates": [
+      72,
+      73,
+      83,
+      90
+    ],
+    "range": [
+      "10-30 17:37:09.474",
+      "10-30 17:39:17.416"
+    ]
+  },
+  "samples": [
+    {
+      "time": "10-30 17:37:09.474",
+      "fps": 92,
+      "refresh": 90,
+      "gpuMs": 18.94,
+      "gpuPercent": 77
+    },
+    {
+      "time": "10-30 17:37:10.474",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 14.63,
+      "gpuPercent": 90
+    },
+    {
+      "time": "10-30 17:37:11.475",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 13.71,
+      "gpuPercent": 90
+    },
+    {
+      "time": "10-30 17:37:12.480",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 14.9,
+      "gpuPercent": 86
+    },
+    {
+      "time": "10-30 17:37:13.482",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 16.95,
+      "gpuPercent": 95
+    },
+    {
+      "time": "10-30 17:37:14.484",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 18.72,
+      "gpuPercent": 94
+    },
+    {
+      "time": "10-30 17:37:15.486",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 18.96,
+      "gpuPercent": 94
+    },
+    {
+      "time": "10-30 17:37:16.497",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 19.66,
+      "gpuPercent": 91
+    },
+    {
+      "time": "10-30 17:37:17.508",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 16.51,
+      "gpuPercent": 93
+    },
+    {
+      "time": "10-30 17:37:18.509",
+      "fps": 91,
+      "refresh": 90,
+      "gpuMs": 19.79,
+      "gpuPercent": 95
+    },
+    {
+      "time": "10-30 17:37:19.514",
+      "fps": 89,
+      "refresh": 90,
+      "gpuMs": 20.26,
+      "gpuPercent": 91
+    },
+    {
+      "time": "10-30 17:37:20.532",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 17.5,
+      "gpuPercent": 93
+    },
+    {
+      "time": "10-30 17:37:21.532",
+      "fps": 91,
+      "refresh": 90,
+      "gpuMs": 14.93,
+      "gpuPercent": 94
+    },
+    {
+      "time": "10-30 17:37:22.536",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 15.07,
+      "gpuPercent": 92
+    },
+    {
+      "time": "10-30 17:37:23.544",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 12.72,
+      "gpuPercent": 95
+    },
+    {
+      "time": "10-30 17:37:24.551",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 18.97,
+      "gpuPercent": 90
+    },
+    {
+      "time": "10-30 17:37:25.559",
+      "fps": 89,
+      "refresh": 90,
+      "gpuMs": 14.24,
+      "gpuPercent": 93
+    },
+    {
+      "time": "10-30 17:37:26.566",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 20.68,
+      "gpuPercent": 94
+    },
+    {
+      "time": "10-30 17:37:27.570",
+      "fps": 88,
+      "refresh": 90,
+      "gpuMs": 21.22,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:28.576",
+      "fps": 88,
+      "refresh": 90,
+      "gpuMs": 21.2,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:29.576",
+      "fps": 87,
+      "refresh": 90,
+      "gpuMs": 20.94,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:30.584",
+      "fps": 88,
+      "refresh": 90,
+      "gpuMs": 20.83,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:31.593",
+      "fps": 89,
+      "refresh": 90,
+      "gpuMs": 20.97,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:32.594",
+      "fps": 88,
+      "refresh": 90,
+      "gpuMs": 16.37,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:33.598",
+      "fps": 89,
+      "refresh": 90,
+      "gpuMs": 14.68,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:34.602",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 15.74,
+      "gpuPercent": 95
+    },
+    {
+      "time": "10-30 17:37:35.608",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 14.58,
+      "gpuPercent": 98
+    },
+    {
+      "time": "10-30 17:37:36.608",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 13.0,
+      "gpuPercent": 96
+    },
+    {
+      "time": "10-30 17:37:37.608",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 12.39,
+      "gpuPercent": 97
+    },
+    {
+      "time": "10-30 17:37:38.614",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 14.73,
+      "gpuPercent": 95
+    },
+    {
+      "time": "10-30 17:37:39.617",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 17.62,
+      "gpuPercent": 96
+    },
+    {
+      "time": "10-30 17:37:40.618",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 18.16,
+      "gpuPercent": 97
+    },
+    {
+      "time": "10-30 17:37:41.624",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 18.72,
+      "gpuPercent": 93
+    },
+    {
+      "time": "10-30 17:37:42.636",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 16.82,
+      "gpuPercent": 98
+    },
+    {
+      "time": "10-30 17:37:43.637",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 16.38,
+      "gpuPercent": 97
+    },
+    {
+      "time": "10-30 17:37:44.648",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 16.58,
+      "gpuPercent": 97
+    },
+    {
+      "time": "10-30 17:37:45.650",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 18.21,
+      "gpuPercent": 96
+    },
+    {
+      "time": "10-30 17:37:46.655",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 17.84,
+      "gpuPercent": 96
+    },
+    {
+      "time": "10-30 17:37:47.665",
+      "fps": 91,
+      "refresh": 90,
+      "gpuMs": 14.17,
+      "gpuPercent": 96
+    },
+    {
+      "time": "10-30 17:37:48.672",
+      "fps": 90,
+      "refresh": 90,
+      "gpuMs": 20.96,
+      "gpuPercent": 97
+    },
+    {
+      "time": "10-30 17:37:49.675",
+      "fps": 88,
+      "refresh": 83,
+      "gpuMs": 18.79,
+      "gpuPercent": 96
+    },
+    {
+      "time": "10-30 17:37:50.679",
+      "fps": 84,
+      "refresh": 73,
+      "gpuMs": 11.48,
+      "gpuPercent": 99
+    },
+    {
+      "time": "10-30 17:37:51.685",
+      "fps": 82,
+      "refresh": 72,
+      "gpuMs": 11.75,
+      "gpuPercent": 88
+    },
+    {
+      "time": "10-30 17:37:52.685",
+      "fps": 73,
+      "refresh": 72,
+      "gpuMs": 11.79,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:37:53.698",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.84,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:37:54.713",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.79,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:37:55.727",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.81,
+      "gpuPercent": 80
+    },
+    {
+      "time": "10-30 17:37:56.740",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.82,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:37:57.741",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:37:58.755",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:37:59.769",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.69,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:00.769",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:01.769",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.6,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:02.769",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:03.783",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:04.798",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.88,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:05.799",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.8,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:06.810",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.74,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:07.811",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.8,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:08.824",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:09.839",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.8,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:10.839",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.82,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:11.852",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.73,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:12.852",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.78,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:13.866",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.7,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:14.880",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.78,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:15.880",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.67,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:16.894",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.75,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:17.906",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.85,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:18.906",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:19.921",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.77,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:20.921",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:21.922",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.79,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:22.935",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.7,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:23.935",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.65,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:24.947",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.68,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:25.963",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.73,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:26.976",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.84,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:27.989",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.78,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:29.003",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:30.004",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.62,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:31.005",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.73,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:32.016",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.65,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:33.017",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.75,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:34.017",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.83,
+      "gpuPercent": 80
+    },
+    {
+      "time": "10-30 17:38:35.017",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.92,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:36.030",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.85,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:37.030",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.74,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:38.031",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.7,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:39.045",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.71,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:40.057",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.66,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:41.058",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.73,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:42.058",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.77,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:43.070",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:44.071",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.7,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:45.085",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.67,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:46.087",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.75,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:47.099",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:48.112",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.8,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:49.127",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.86,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:50.140",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.87,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:51.141",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.88,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:52.153",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:53.154",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.74,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:54.154",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.66,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:55.154",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.86,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:56.168",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.8,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:38:57.182",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.89,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:38:58.195",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.82,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:38:59.211",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.79,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:00.223",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.7,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:01.236",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.68,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:02.252",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:03.265",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.82,
+      "gpuPercent": 80
+    },
+    {
+      "time": "10-30 17:39:04.278",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 80
+    },
+    {
+      "time": "10-30 17:39:05.293",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:06.305",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.63,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:07.305",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.65,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:08.318",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.67,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:09.319",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.72,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:10.334",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.78,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:11.347",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.79,
+      "gpuPercent": 81
+    },
+    {
+      "time": "10-30 17:39:12.361",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.82,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:39:13.375",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.83,
+      "gpuPercent": 83
+    },
+    {
+      "time": "10-30 17:39:14.375",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.67,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:15.388",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.76,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:16.401",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.7,
+      "gpuPercent": 82
+    },
+    {
+      "time": "10-30 17:39:17.416",
+      "fps": 72,
+      "refresh": 72,
+      "gpuMs": 11.97,
+      "gpuPercent": 81
+    }
+  ]
+}

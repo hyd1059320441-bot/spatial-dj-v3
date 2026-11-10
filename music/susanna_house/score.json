@@ -1,0 +1,76 @@
+{
+  "title": "Susanna Club / 苏珊娜舞曲",
+  "fileStem": "susanna-house",
+  "bpm": 130,
+  "bars": 4,
+  "master": 0.78,
+  "volumes": [0.88, 0.66, 0.72, 0.84, 0.42],
+  "melodySource": "Stephen Foster, Oh! Susanna, 1848; public-domain opening melody, rhythm arranged into four House bars",
+  "sourceReference": "https://www.zebrakeys.com/blog/oh-susanna/",
+  "steps": [
+    {
+      "description": "定位 KICK → 录音 → 四拍预备后每拍点击 Kick",
+      "lane": 0,
+      "notes": [
+        {"at": 0, "pad": 0}, {"at": 1, "pad": 0}, {"at": 2, "pad": 0}, {"at": 3, "pad": 0},
+        {"at": 4, "pad": 0}, {"at": 5, "pad": 0}, {"at": 6, "pad": 0}, {"at": 7, "pad": 0},
+        {"at": 8, "pad": 0}, {"at": 9, "pad": 0}, {"at": 10, "pad": 0}, {"at": 11, "pad": 0},
+        {"at": 12, "pad": 0}, {"at": 13, "pad": 0}, {"at": 14, "pad": 0}, {"at": 15, "pad": 0}
+      ]
+    },
+    {
+      "description": "定位 KICK → 再次录音叠录反拍镲片和末尾 Tom",
+      "lane": 0,
+      "notes": [
+        {"at": 0.5, "pad": 1}, {"at": 1.5, "pad": 1}, {"at": 2.5, "pad": 1}, {"at": 3.5, "pad": 2},
+        {"at": 4.5, "pad": 1}, {"at": 5.5, "pad": 1}, {"at": 6.5, "pad": 1}, {"at": 7.5, "pad": 2},
+        {"at": 8.5, "pad": 1}, {"at": 9.5, "pad": 1}, {"at": 10.5, "pad": 1}, {"at": 11.5, "pad": 2},
+        {"at": 12.5, "pad": 1}, {"at": 13.5, "pad": 1}, {"at": 14.5, "pad": 1},
+        {"at": 15.25, "pad": 3}, {"at": 15.5, "pad": 2}, {"at": 15.75, "pad": 3}
+      ]
+    },
+    {
+      "description": "定位 CLAP → 录下二四拍拍手和过门",
+      "lane": 1,
+      "notes": [
+        {"at": 1, "pad": 0}, {"at": 3, "pad": 3}, {"at": 5, "pad": 0},
+        {"at": 6.75, "pad": 2}, {"at": 7, "pad": 3},
+        {"at": 9, "pad": 0}, {"at": 11, "pad": 3}, {"at": 13, "pad": 0},
+        {"at": 14.75, "pad": 2}, {"at": 15, "pad": 3}, {"at": 15.5, "pad": 1}
+      ]
+    },
+    {
+      "description": "定位 BASS → 点击 C2/E2 反拍贝斯，G 和弦处用 D2，末拍回 C2",
+      "lane": 2,
+      "notes": [
+        {"at": 0.5, "pad": 1}, {"at": 1.5, "pad": 1}, {"at": 2.5, "pad": 3}, {"at": 3.5, "pad": 1},
+        {"at": 4.5, "pad": 1}, {"at": 5.5, "pad": 3}, {"at": 6.5, "pad": 2}, {"at": 7.5, "pad": 2},
+        {"at": 8.5, "pad": 1}, {"at": 9.5, "pad": 1}, {"at": 10.5, "pad": 3}, {"at": 11.5, "pad": 1},
+        {"at": 12.5, "pad": 1}, {"at": 13.5, "pad": 3}, {"at": 14.5, "pad": 2}, {"at": 15.5, "pad": 1}
+      ]
+    },
+    {
+      "description": "定位 MELODY → 按 C4/D4/E4/G4/A4 演奏《哦，苏珊娜》开头的两句",
+      "lane": 3,
+      "notes": [
+        {"at": 0, "pad": 1}, {"at": 0.5, "pad": 2}, {"at": 1, "pad": 3}, {"at": 1.5, "pad": 4},
+        {"at": 2, "pad": 4}, {"at": 2.5, "pad": 5}, {"at": 3, "pad": 4}, {"at": 3.5, "pad": 3},
+        {"at": 4, "pad": 1}, {"at": 4.5, "pad": 2}, {"at": 5, "pad": 3}, {"at": 5.5, "pad": 3},
+        {"at": 6, "pad": 2}, {"at": 6.5, "pad": 1}, {"at": 7, "pad": 2},
+        {"at": 8, "pad": 1}, {"at": 8.5, "pad": 2}, {"at": 9, "pad": 3}, {"at": 9.5, "pad": 4},
+        {"at": 10, "pad": 4}, {"at": 10.5, "pad": 5}, {"at": 11, "pad": 4}, {"at": 11.5, "pad": 3},
+        {"at": 12, "pad": 1}, {"at": 12.5, "pad": 2}, {"at": 13, "pad": 3}, {"at": 13.5, "pad": 3},
+        {"at": 14, "pad": 2}, {"at": 14.5, "pad": 2}, {"at": 15, "pad": 1}
+      ]
+    },
+    {
+      "description": "定位 CHORD → 录下 C/G 和弦及末尾 C 收束",
+      "lane": 4,
+      "notes": [
+        {"at": 0, "pad": 2}, {"at": 2, "pad": 2}, {"at": 4, "pad": 2}, {"at": 6, "pad": 3},
+        {"at": 8, "pad": 2}, {"at": 10, "pad": 2}, {"at": 12, "pad": 2}, {"at": 14, "pad": 3},
+        {"at": 15, "pad": 2}
+      ]
+    }
+  ]
+}

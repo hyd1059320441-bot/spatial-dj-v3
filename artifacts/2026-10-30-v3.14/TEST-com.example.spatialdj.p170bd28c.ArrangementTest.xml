@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spatialdj.p170bd28c.ArrangementTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-30T09:36:06.235Z" hostname="JXT3V7YG4D" time="0.199">
+  <properties/>
+  <testcase name="freshAndNewProjectsUseFullArrangementFourBarsWithoutChangingLegacyOrScoreDefaults" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.031"/>
+  <testcase name="allFivePartsRecordIndependentlyWithLocalUndoAndCancelledOverdub" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.025"/>
+  <testcase name="independentLengthsAndModeSurviveSaveLoadIncludingHiddenParts" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.009"/>
+  <testcase name="shorteningEmptyPartCannotUndoOutOfRangeNotesOrEraseOtherPartsUndo" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.007"/>
+  <testcase name="maximumArrangementExceedsLegacySizeAndMalformedExtensionsAreRejected" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.032"/>
+  <testcase name="nonIntegralTempoAndDifferentPartLengthsUseOneContinuousSampleClock" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.023"/>
+  <testcase name="sectionAuditionLoopsOnlySelectedPartAndRecordExitsFullPlayback" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.022"/>
+  <testcase name="manuallyWrittenV1FileLoadsAsDropAndUpgradesWithoutLosingSettings" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.006"/>
+  <testcase name="wavIncludesEveryPartOnceAtIndependentBoundariesEvenWithEmptyDrop" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.01"/>
+  <testcase name="modesKeepEveryCommittedPartAndLegacyDrop" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.004"/>
+  <testcase name="fullSongPcmIsIndependentOfBufferSizeAcrossTransitionsAndCompletion" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.021"/>
+  <testcase name="automaticRestoreKeepsTheWholeArrangement" classname="com.example.spatialdj.p170bd28c.ArrangementTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

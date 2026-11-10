@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spatialdj.p170bd28c.LoopEngineTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-10-30T09:36:06.646Z" hostname="JXT3V7YG4D" time="0.142">
+  <properties/>
+  <testcase name="fiveTracksRecordOneLoopThenReplayInSync" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.005"/>
+  <testcase name="invalidAndUnsortedSessionsAreHandledBeforeMutation" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.002"/>
+  <testcase name="freeTimingPreservesOffGridBeat" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.002"/>
+  <testcase name="mutedTrackRetainsLoopAndMasterZeroProducesSilence" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.006"/>
+  <testcase name="chunkSizeDoesNotChangeSequencerOrPcm" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.02"/>
+  <testcase name="clearAndUndoWorkWithoutReplayingPastEvents" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.002"/>
+  <testcase name="nearestSixteenthWrapsToFirstBeat" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.004"/>
+  <testcase name="liveAuditionDoesNotPlayRecordedEventTwiceInFirstPass" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.003"/>
+  <testcase name="oneHourNonIntegralTempoHasNoAccumulatingRoundingDrift" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.081"/>
+  <testcase name="eventCapAndVoiceCapSurviveDenseInput" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.003"/>
+  <testcase name="tempoAndLengthCannotChangeDuringRecordingOrExistingLoop" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.003"/>
+  <testcase name="nonIntegralCountInIsExactlyFourBeats" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.003"/>
+  <testcase name="overdubKeepsPriorNotesAndUndoRestoresPriorLoop" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.003"/>
+  <testcase name="cancelAndStopDiscardUncommittedOverdub" classname="com.example.spatialdj.p170bd28c.LoopEngineTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
